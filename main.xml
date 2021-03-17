@@ -1,7 +1,8 @@
 <xml>
   <dir>
     <title>New Release Movies</title>
-    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/New%20Release.xml</link>
+    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/Main%20Sub.xml</link>
+	<externallink>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/Action.xml</externallink>
     <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
     <summary>New Release Movies</summary>
   </dir>
