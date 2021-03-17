@@ -1,37 +1,37 @@
 <xml>
   <dir>
-    <title>Blackops New Release Movies</title>
+    <title>New Release Movies</title>
+    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
     <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/english%20movies%202019.xml</link>
-	    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
-	    <summary>Latest Movies</summary>
+    <summary></summary>
   </dir>
 
 <dir>
-    <title>Blackops Latest Movies</title>
-    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/english%20movies%202018.xml</link>
-	    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
-	    <summary>Latest Movies</summary>
+    <title>Build Reviews</title>
+    <link>http://dabutcher.org/coco/builds_main.xml</link>
+    <thumbnail>special://home/addons/plugin.video.cocodab/icon.png</thumbnail>
+    <summary></summary>
   </dir>
 
   <dir>
-    <title>Blackops Added Movies</title>
-    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/english%20movies%202017.xml</link>
-	    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
-        <summary>Added Movies</summary>
+    <title>Streaming Matters</title>
+    <link>http://dabutcher.org/coco/sm_main.xml</link>
+    <thumbnail>special://home/addons/plugin.video.cocodab/icon.png</thumbnail>
+    <summary></summary>
   </dir>
 
 <dir>
-    <title>Blackops Popular Movies</title>
-    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/feature%20movies.xml</link>
-	    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
-        <summary>Popular Movies</summary>
+    <title>Dabs Must Haves</title>
+    <link>http://dabutcher.org/coco/help_main.xml</link>
+    <thumbnail>special://home/addons/plugin.video.cocodab/icon.png</thumbnail>
+    <summary></summary>
   </dir>
 
   <dir>
-    <title>Blackops Favourite Movies</title>
-    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/feature%20movies.xml</link>
-	    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
-        <summary>Favourite Movies</summary>
+    <title>Tips And Tricks</title>
+    <link>http://dabutcher.org/coco/tips_main.xml</link>
+    <thumbnail>special://home/addons/plugin.video.cocodab/icon.png</thumbnail>
+    <summary></summary>
   </dir>
 
 </xml>
