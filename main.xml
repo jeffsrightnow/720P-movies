@@ -1,42 +1,37 @@
 <xml>
   <dir>
     <title>Blackops New Release Movies</title>
-    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
-    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/Main%20Menu.xml</link>
-	<externallink>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/english%20movies%202019.xml</externallink>
-    <summary>New Release Movies</summary>
+    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/english%20movies%202019.xml</link>
+	    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
+	    <summary>Latest Movies</summary>
   </dir>
 
 <dir>
     <title>Blackops Latest Movies</title>
-    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/Main%20Menu.xml</link>
-	<externallink>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/english%20movies%202018.xml</externallink>
-    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
+    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/english%20movies%202018.xml</link>
+	    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
 	    <summary>Latest Movies</summary>
   </dir>
 
   <dir>
     <title>Blackops Added Movies</title>
-    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/Main%20Menu.xml</link>
-	<externallink>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/english%20movies%202017.xml</externallink>
-    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
-    <summary>Added Movies</summary>
+    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/english%20movies%202017.xml</link>
+	    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
+        <summary>Added Movies</summary>
   </dir>
 
 <dir>
     <title>Blackops Popular Movies</title>
-    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/Main%20Menu.xml</link>
-	<externallink>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/feature%20movies.xml</externallink>
-    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
-    <summary>Popular Movies</summary>
+    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/feature%20movies.xml</link>
+	    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
+        <summary>Popular Movies</summary>
   </dir>
 
   <dir>
     <title>Blackops Favourite Movies</title>
-    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/Main%20Menu.xml</link>
-	<externallink>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/english%20movies%202016.xml</externallink>
-    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
-    <summary>Favourite Movies</summary>
+    <link>https://raw.githubusercontent.com/jeffsrightnow/720P-movies/master/feature%20movies.xml</link>
+	    <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
+        <summary>Favourite Movies</summary>
   </dir>
 
 </xml>
