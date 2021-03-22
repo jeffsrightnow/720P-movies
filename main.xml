@@ -1,7 +1,7 @@
 <xml>
   <dir>
     <title>Test</title>
-   	<link>https://raw.githubusercontent.com/jeffsrightnow/Music/master/music.xml</link>
+   	<link>https://raw.githubusercontent.com/adriannachang/Movie-Database-XML/master/myXML.xml</link>
     <thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
     <summary>New Release Movies</summary>
   </dir>
