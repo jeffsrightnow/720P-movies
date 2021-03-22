@@ -5,8 +5,9 @@
 	<MOVIE>
 		<TITLE>Zack Snyder's Justice League </TITLE>
 		<YEAR>2021</YEAR>
+		<link>http://gagagagaagagagaggagagaga.gagagagagaagagaggagagaggaagaga.ga/Movies/2021/Zack.Snyders.Justice.League.2021.720p.WEB-DL.x265.10Bit.Pahe.mkv</link>
 		<DIRECTOR>James Cameron</DIRECTOR>
-		<GENRE>Action</GENRE>
+		<GENRE>Drama</GENRE>
 		<IMAGE>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg</IMAGE>
 	</MOVIE>
 	
@@ -18,7 +19,67 @@
 		<IMAGE>Images/hunger games.jpg</IMAGE>
 	</MOVIE>
 
+	<MOVIE>
+		<TITLE>Lord of the Rings:   The Fellowship of the Ring</TITLE>
+		<YEAR>2001</YEAR>
+		<DIRECTOR>Peter Jackson</DIRECTOR>
+		<GENRE>Fantasy</GENRE>
+		<IMAGE>Images/Lord of the rings.jpg</IMAGE>
+	</MOVIE>
+	
+	<MOVIE>
+		<TITLE>Frozen</TITLE>
+		<YEAR>2014</YEAR>
+		<DIRECTOR>Chris Buck</DIRECTOR>
+		<GENRE>Animation</GENRE>
+		<IMAGE>Images/frozen.jpg</IMAGE>
+	</MOVIE>
+	
+	<MOVIE>
+		<TITLE>Les Misérables</TITLE>
+		<YEAR>2012</YEAR>
+		<DIRECTOR>Tom Hooper</DIRECTOR>
+		<GENRE>Musical</GENRE>
+		<IMAGE>Images/les miserables.jpg</IMAGE>
+	</MOVIE>
 
+	<MOVIE>
+		<TITLE>The Little Mermaid</TITLE>
+		<YEAR>1989</YEAR>
+		<DIRECTOR>Ron Clements</DIRECTOR>
+		<GENRE>Animation</GENRE>
+		<IMAGE>Images/The little mermaid.jpg</IMAGE>
+	</MOVIE>
+	
+	<MOVIE>
+		<TITLE>Just Go with It</TITLE>
+		<YEAR>2011</YEAR>
+		<DIRECTOR>Dennis Dugan</DIRECTOR>
+		<GENRE>Comedy</GENRE>
+		<IMAGE>Images/just go with it.jpg</IMAGE>
+	</MOVIE>
 
+	<MOVIE>
+		<TITLE>Shutter Island</TITLE>
+		<YEAR>2010</YEAR>
+		<DIRECTOR>Martin Scorsese</DIRECTOR>
+		<GENRE>Thriller</GENRE>
+		<IMAGE>Images/shutter island.jpg</IMAGE>
+	</MOVIE>
 
+	<MOVIE>
+		<TITLE>Jurassic Park</TITLE>
+		<YEAR>1993</YEAR>
+		<DIRECTOR>Steven Spielberg</DIRECTOR>
+		<GENRE>Adventure</GENRE>
+		<IMAGE>Images/jurassic park.jpg</IMAGE>
+	</MOVIE>
 
+	<MOVIE>
+		<TITLE>Interstellar</TITLE>
+		<YEAR>2014</YEAR>
+		<DIRECTOR>Christopher Nolan</DIRECTOR>
+		<GENRE>Adventure</GENRE>
+		<IMAGE>Images/Interstellar.jpg</IMAGE>
+	</MOVIE>	
+</movies>
