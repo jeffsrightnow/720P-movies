@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/5OD9W0twXHGx9O9BYgJti3ItRBF.jpg" tvg-country="" tvg-url="" group-title="",Alita: Battle Angel  
+http://khulnaplex.net/Data/movies/hollywood/2019/Alita%20Battle%20Angel%20(2019)/Alita%20Battle%20Angel%20[2019]%20[1080p]%20[CiTYCloud].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/r36DeyCPIfHaHyvIq06DjfZDs6W.jpg" tvg-country="" tvg-url="" group-title="",Godzilla: King of the Monsters  
+http://khulnaplex.net/Data/movies/hollywood/2019/Godzilla%20King%20of%20the%20Monsters%20(2019)/Godzilla%20King%20of%20the%20Monsters%20(2019)%20[1080p].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/w4wVmhQ6JH7G7eLdIkfOv17iyBy.jpg" tvg-country="" tvg-url="" group-title="",Deadpool 2  
+http://khulnaplex.net/Data/movies/hollywood/2018/Deadpool%202%20(2018)/Deadpool%202%20(2018)%20[1080p]%20BluRay.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AfybH6GbGFw1F9bcETe2yu25mIE.jpg" tvg-country="" tvg-url="" group-title="",Den of Thieves   
+http://khulnaplex.net/Data/movies/hollywood/2018/Den%20Of%20Thieves%20(2018)/Den%20Of%20Thieves%20(2018)%20[1080p]%20BluRay.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg" tvg-country="" tvg-url="" group-title="",Mile 22 
+http://khulnaplex.net/Data/movies/hollywood/2018/Mile%2022%20(2018)/Mile%2022%20(2018)%20[1080p]%20WEBRip.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" tvg-country="" tvg-url="" group-title="",Tomb Raider  
+http://khulnaplex.net/Data/movies/hollywood/2018/Tomb%20Raider%20(2018)/Tomb%20Raider%20(2018)%20[1080p]%20BluRay.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/nDwhN8q6JGU8PChTO3xeszQJW0M.jpg" tvg-country="" tvg-url="" group-title="",Black Panther   
+http://khulnaplex.net/Data/movies/hollywood/2018/Black%20Panther%20(2018)/Black%20Panther%20(2018)%20[1080p]%20BluRay.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg" tvg-country="" tvg-url="" group-title="",Avengers: Endgame  
 https://web.opendrive.com/api/v1/download/file.json/OF8xNTU5Mzc2NDFf?inline=1
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg" tvg-country="" tvg-url="" group-title="",John Wick: Chapter 3 - Parabellum  
