@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/96vh2gsbycB5vWmvWOjy4bwOvgv.jpg" tvg-country="" tvg-url="" group-title="",The Killer           
+http://ftp1.aliflailabd.com/Foreign%20Language%20Movies/2022/The%20Killer/The%20Killer%20%282022%29%20Korean%201080p%20HDRip%20x265.mkv
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cj6YmTAU7Jvn3w6d2NfjQzpX7Pw.jpg" tvg-country="" tvg-url="" group-title="",Bullet Proof             
+http://ftp1.aliflailabd.com/English%20Movies/2022/Bullet%20Proof%20%282022%29%201080p%20WEBRip%20DD5.1%20x264.mkv
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/c6RZZd9RTTGXq7crVf6n67SUmqh.jpg" tvg-country="" tvg-url="" group-title="",Orphan: First Kill             
+http://ftp1.aliflailabd.com/English%20Movies/2022/Orphan%3A%20First%20Kill/Orphan%20First%20Kill%20%282022%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20DDP5.1%20ESub%20H264.mkv
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/a4gLxu0pJEg0vMExq7TcDZTaoFM.jpg" tvg-country="" tvg-url="" group-title="",Glorious             
+http://ftp1.aliflailabd.com/English%20Movies/2022/Glorious/Glorious%20%282022%29%201080p%20WEBRip%20DD5.1%20H264.mkv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xIGr7UHsKf0URWmyyd5qFMAq4d8.jpg" tvg-country="" tvg-url="" group-title="",Beast             
 http://ftp1.aliflailabd.com/English%20Movies/2022/Beast/Beast%20%282022%29%20720p%20HDCAM.mkv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" tvg-country="" tvg-url="" group-title="",Top Gun: Maverick             
