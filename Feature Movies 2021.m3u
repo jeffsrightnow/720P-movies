@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/mXb3hot6ZW4hMfpZSK7UtD70WgM.jpg" tvg-country="" tvg-url="" group-title="",Battleship  
+http://103.190.16.6/ftpdata/Movies/Hollywood/2015/Battleship%20(2012)/Battleship.2012.1080p.10bit.BluRay.mkv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg" tvg-country="" tvg-url="" group-title="",Mad Max: Fury Road  
 http://ftp1.aliflailabd.com/English%20Movies/2015/Mad%20Max%20Fury%20Road%20%282015%29/Mad%20Max%20Fury%20Road%20%282015%29%20%5B1080p%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/65jn0ZLFK12ey3bACu5jOC1EQBn.jpg" tvg-country="" tvg-url="" group-title="",Apocalypto   
