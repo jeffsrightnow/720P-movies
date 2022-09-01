@@ -1,8 +1,16 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/j7oZ8et98euYXNA82RFcpscjLkw.jpg" tvg-country="" tvg-url="" group-title="",Samaritan           
 http://ftp1.aliflailabd.com/English%20Movies/2022/Samaritan/Samaritan%20%282022%29%201080p%20WEBDL.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sT1XW0Mx5SEnpuTKNLYDWxRHtdn.jpg" tvg-country="" tvg-url="" group-title="",Dead Zone           
+http://103.190.16.6/ftpdata/Movies/Hollywood/2022/Dead%20Zone%20(2022)/Dead.Zone.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cO9ywQ2AMHM9EoBJsJGH1Gl9U5L.jpg" tvg-country="" tvg-url="" group-title="",Abandoned           
+http://103.190.16.6/ftpdata/Movies/Hollywood/2022/Abandoned%20(2022)/Abandoned.2022.720p.BluRay.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rBil5kdLSEnNAdbLoGgMDxbAw46.jpg" tvg-country="" tvg-url="" group-title="",Low Life           
+http://103.190.16.6/ftpdata/Movies/Hollywood/2022/Low%20Life%20(2022)/Low.Life.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ayeSOVTrFK8zlh02uMdB9RLabJ8.jpg" tvg-country="" tvg-url="" group-title="",Killer Ambition           
+http://103.190.16.6/ftpdata/Movies/Hollywood/2022/Killer%20Ambition%20(2022)/Killer.Ambition.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fD4PfTrlcpLFYxxdzNJkUhUS3BE.jpg" tvg-country="" tvg-url="" group-title="",Vanished: Searching for My Sister           
-http://joshmasti.com/CDN/movies/hollywood/2022/Vanished%20Searching%20For%20My%20Sister%20(2022)/Vanished.Searching.For.My.Sister.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+http://103.190.16.6/ftpdata/Movies/Hollywood/2022/Vanished%20Searching%20For%20My%20Sister%20(2022)/Vanished.Searching.For.My.Sister.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zQmwQqtT2KEfg5IO5u8lexZoCAR.jpg" tvg-country="" tvg-url="" group-title="",American Carnage           
 http://ftp1.aliflailabd.com/English%20Movies/2022/American%20Carnage/American%20Carnage%20%282022%29%201080p%20BluRay%20H264%20AAC.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vccE9bBa9mgghFpkWzU1fQqmOKB.jpg" tvg-country="" tvg-url="" group-title="",Paws of Fury: The Legend of Hank           
