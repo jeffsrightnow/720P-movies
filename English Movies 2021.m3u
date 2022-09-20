@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg" tvg-country="" tvg-url="" group-title="",Breaking               
+http://103.141.60.54/Data/ALLMovies/hollywood/2022/Breaking%20%282022%29/Breaking.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/vjQxytGk9sxlf17ZrasWEPQ9qBH.jpg" tvg-country="" tvg-url="" group-title="",The Invitation               
+http://103.141.60.54/Data/ALLMovies/hollywood/2022/The%20Invitation%20%282022%29/The.Invitation.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zq9iHZTVNOXFT4SIzjpA7gfwsyZ.jpg" tvg-country="" tvg-url="" group-title="",Deus              
 http://103.190.16.6/ftpdata/Movies/Hollywood/2022/Deus%20(2022)/Deus.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg" tvg-country="" tvg-url="" group-title="",Emily the Criminal             
