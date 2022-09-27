@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" tvg-country="" tvg-url="" group-title="",The Infernal Machine                   
+http://59.153.203.202/Data/All_Movies/hollywood/2022/The%20Infernal%20Machine%20(2022)/The.Infernal.Machine.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/66TCU2sXyskNS0e7qUkewzTc37O.jpg" tvg-country="" tvg-url="" group-title="",Control                  
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Control%20(2022)/Control.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/8b20mh53srwGzvkufk59dcWO4OG.jpg" tvg-country="" tvg-url="" group-title="",Explorer: The Deepest Cave                 
+http://103.190.16.6/ftpdata/Movies/Hollywood/2022/Explorer%20(2022)/Explorer.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3G1wHQNITyfiABp2fgytpiFMHf9.jpg" tvg-country="" tvg-url="" group-title="",Section 8                
 http://59.153.203.202/Data/All_Movies/hollywood/2022/Section%208%20(2022)/Section.8.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tIE3nGFSCAfVieN17Juxkv4Zv0w.jpg" tvg-country="" tvg-url="" group-title="",Raven's Hollow               
