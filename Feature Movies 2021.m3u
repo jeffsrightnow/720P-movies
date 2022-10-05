@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/rczKeqkyouROld1LQX9OR3db75z.jpg" tvg-country="" tvg-url="" group-title="",Eternals   
+http://59.153.203.202/Data/All_Movies/hollywood/2021/Eternals%20(2021)/Eternals.2021.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8c4a8kE7PizaGQQnditMmI1xbRp.jpg" tvg-country="" tvg-url="" group-title="",The Matrix Resurrections  
+http://59.153.203.202/Data/All_Movies/hollywood/2021/The%20Matrix%20Resurrections%20(2021)/The.Matrix.Resurrections.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/tomAFJjfSCpsufKh1oYcoLmNjT9.jpg" tvg-country="" tvg-url="" group-title="",Venom: Let There Be Carnage   
+http://59.153.203.202/Data/All_Movies/hollywood/2021/Venom%20Let%20There%20Be%20Carnage%20(2021)/Venom.Let.There.Be.Carnage.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/ukMqLnPJ9qyq61SqjTChRkOirKj.jpg" tvg-country="" tvg-url="" group-title="",Ghostbusters: Afterlife  
+http://59.153.203.202/Data/All_Movies/hollywood/2021/Eternals%20(2021)/Eternals.2021.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" tvg-country="" tvg-url="" group-title="",Shang-Chi and the Legend of the Ten Rings    
+http://59.153.203.202/Data/All_Movies/hollywood/2021/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)/Shang-Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" tvg-country="" tvg-url="" group-title="",No Time to Die    
+http://59.153.203.202/Data/All_Movies/hollywood/2021/No%20Time%20To%20Die%20(2021)/No.Time.To.Die.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" tvg-country="" tvg-url="" group-title="",Dune    
+http://59.153.203.202/Data/All_Movies/hollywood/2021/Dune%20(2021)/Dune.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" tvg-country="" tvg-url="" group-title="",Kate    
+http://59.153.203.202/Data/All_Movies/hollywood/2021/Kate%20(2021)/Kate.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg" tvg-country="" tvg-url="" group-title="",Snake Eyes: G.I. Joe Origins    
+http://59.153.203.202/Data/All_Movies/hollywood/2021/Snake%20Eyes%20(2021)/Snake.Eyes.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/mXb3hot6ZW4hMfpZSK7UtD70WgM.jpg" tvg-country="" tvg-url="" group-title="",Battleship  
 http://103.190.16.6/ftpdata/Movies/Hollywood/2015/Battleship%20(2012)/Battleship.2012.1080p.10bit.BluRay.mkv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg" tvg-country="" tvg-url="" group-title="",Mad Max: Fury Road  
