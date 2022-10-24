@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/lMPPiyVLE09NwzYx5m6UsB1sMfS.jpg" tvg-country="" tvg-url="" group-title="",Black Adam                      
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Black%20Adam%20(2022)/Black.Adam.2022.1080p.Cam.X264.AC3.Will1869.mp4-muxed.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg" tvg-country="" tvg-url="" group-title="",The School for Good and Evil                      
+http://59.153.203.202/Data/All_Movies/hollywood/2022/The%20School%20For%20Good%20And%20Evil%20(2022)%20[1080p]%20[WEBRip]%20[5.1]%20[YTS.MX]/The.School.For.Good.And.Evil.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg" tvg-country="" tvg-url="" group-title="",Blade of the 47 Ronin                      
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Blade%20Of%20The%2047%20Ronin%20(2022)/Blade.Of.The.47.Ronin.2022.720p.BluRay.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k8xdrkV1qqA7RScgjCgybWUynH8.jpg" tvg-country="" tvg-url="" group-title="",Bitcon                      
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Bitcon%20(2022)/Bitcon.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ymb6GhQy1rQuKvPXyitNdr6hoKl.jpg" tvg-country="" tvg-url="" group-title="",Slayers                     
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Slayers%20(2022)/Slayers.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/77r50i4ya2VLhhMvQpBZIPa9V9B.jpg" tvg-country="" tvg-url="" group-title="",Matriarch                    
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Matriarch%20(2022)/Matriarch.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3uDwqxbr0j34rJVJMOW6o8Upw5W.jpg" tvg-country="" tvg-url="" group-title="",Halloween Ends                    
 http://59.153.203.202/Data/All_Movies/hollywood/2022/Halloween%20Ends%20(2022)/Halloween.Ends.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4njdAkiBdC5LnFApeXSkFQ78GdT.jpg" tvg-country="" tvg-url="" group-title="",Medieval                    
