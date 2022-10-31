@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cbdHqb0kZTgF7jQbUw41KEYVInb.jpg" tvg-country="" tvg-url="" group-title="",Robbing Mussolini                       
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Robbing%20Mussolini%20(2022)/Robbing.Mussolini.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cdVz9dUv2YvNQil4svLAiUTuY28.jpg" tvg-country="" tvg-url="" group-title="",Hounded                        
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Hounded%20(2022)/Hounded.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qcSunhxo4l0iJsEv00daS3PE4YL.jpg" tvg-country="" tvg-url="" group-title="",American Murderer                       
+http://59.153.203.202/Data/All_Movies/hollywood/2022/American%20Murderer%20(2022)/American.Murderer.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wtj25VnvJIeu7FK6bfyUDSSItNN.jpg" tvg-country="" tvg-url="" group-title="",COIN                     
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Coin%20(2022)/Coin.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg" tvg-country="" tvg-url="" group-title="",Barbarian                      
 http://103.141.60.54/Data/ALLMovies/hollywood/2022/Barbarian%20%282022%29/Barbarian.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/lMPPiyVLE09NwzYx5m6UsB1sMfS.jpg" tvg-country="" tvg-url="" group-title="",Black Adam                      
