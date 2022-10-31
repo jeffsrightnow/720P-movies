@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg" tvg-country="" tvg-url="" group-title="",Detective Knight: Rogue                         
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Detective%20Knight%20Rogue%20(2022)/Detective.Knight.Rogue.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yTnrbUsldlGbajGyI859ISv2Vli.jpg" tvg-country="" tvg-url="" group-title="",Headless Horseman                         
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Headless%20Horseman%20(2022)/Headless.Horseman.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGz5rffXhegQH5PGUDiObqoOt06.jpg" tvg-country="" tvg-url="" group-title="",The OctoGames                        
+http://59.153.203.202/Data/All_Movies/hollywood/2022/The%20OctoGames%20(2022)/The.OctoGames.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z0iZuYNM0hUyHZeldIdXf4aSrPy.jpg" tvg-country="" tvg-url="" group-title="",The Chalk Line                       
+http://59.153.203.202/Data/All_Movies/hollywood/2022/The%20Chalk%20Line%20(2022)/The.Chalk.Line.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n7gVho5g4IFqnbBJL8ATqG53UH4.jpg" tvg-country="" tvg-url="" group-title="",The Bad Seed Returns                       
+http://59.153.203.202/Data/All_Movies/hollywood/2022/The%20Bad%20Seed%20Returns%20(2022)/The.Bad.Seed.Returns.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cbdHqb0kZTgF7jQbUw41KEYVInb.jpg" tvg-country="" tvg-url="" group-title="",Robbing Mussolini                       
 http://59.153.203.202/Data/All_Movies/hollywood/2022/Robbing%20Mussolini%20(2022)/Robbing.Mussolini.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cdVz9dUv2YvNQil4svLAiUTuY28.jpg" tvg-country="" tvg-url="" group-title="",Hounded                        
