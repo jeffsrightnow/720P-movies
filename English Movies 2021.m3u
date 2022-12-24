@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rzOBtwhso2u1XrLNmNDuuKCtFLL.jpg" tvg-country="" tvg-url="" group-title="",High Heat                      
+http://59.153.203.202/Data/All_Movies/hollywood/2022/High%20Heat%20(2022)/High.Heat.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mPywkW1dfDer6GxxTvjwOTsAVud.jpg" tvg-country="" tvg-url="" group-title="",Strange World                       
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Strange%20World%20(2022)/Strange.World.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/94xxm5701CzOdJdUEdIuwqZaowx.jpg" tvg-country="" tvg-url="" group-title="",Avatar: The Way of Water                       
 http://59.153.203.202/Data/All_Movies/hollywood/2022/Avatar%20The%20Way%20of%20Water%20(2022)/Avatar.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w3s6XEDNVGq5LUlghqs6VlvsvL6.jpg" tvg-country="" tvg-url="" group-title="",Prey for the Devil                      
