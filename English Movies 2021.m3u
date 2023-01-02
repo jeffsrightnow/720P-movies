@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5AhtbvxwpQD80UuAUuZ3WnUHsre.jpg" tvg-country="" tvg-url="" group-title="",Leal                    
+http://59.153.203.202/Data/All_Movies/hollywood/2022/The%20Last%20Runway%20(2018)/The.Last.Runway.2018.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ifRFLx83Xk1DcwAS3OScgI6HmWO.jpg" tvg-country="" tvg-url="" group-title="",The Lair                   
+http://59.153.203.202/Data/All_Movies/hollywood/2022/The%20Lair%20(2022)/The.Lair.2022.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rzOBtwhso2u1XrLNmNDuuKCtFLL.jpg" tvg-country="" tvg-url="" group-title="",High Heat                      
 http://59.153.203.202/Data/All_Movies/hollywood/2022/High%20Heat%20(2022)/High.Heat.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mPywkW1dfDer6GxxTvjwOTsAVud.jpg" tvg-country="" tvg-url="" group-title="",Strange World                       
