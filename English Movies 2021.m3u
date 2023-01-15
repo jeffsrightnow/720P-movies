@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg" tvg-country="" tvg-url="" group-title="",The Old Way                    
+http://59.153.203.202/Data/All_Movies/hollywood/2022/The%20Old%20Way%20(2023)/The.Old.Way.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/26yQPXymbWeCLKwcmyL8dRjAzth.jpg" tvg-country="" tvg-url="" group-title="",Devotion                   
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Devotion%20(2022)/Devotion.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iK46b6jYIKvaakp7qKt0BKexN53.jpg" tvg-country="" tvg-url="" group-title="",The Kings of the World                    
+http://59.153.203.202/Data/All_Movies/hollywood/2022/The%20Kings%20Of%20The%20World%20(2022)/The.Kings.Of.The.World.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/xY7Sc7zsdNuvUVtfD4WdGdfQV52.jpg" tvg-country="" tvg-url="" group-title="",The Pale Blue Eye                    
 http://103.152.18.18/Data/Movies/hollywood/2022/The%20Pale%20Blue%20Eye%20(2022)/The.Pale.Blue.Eye.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n2sOwXwrJCrPKvjn4qfDHT2yENE.jpg" tvg-country="" tvg-url="" group-title="",The Young Chief Winnetou                    
