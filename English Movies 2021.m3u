@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dniWicB6fa7NvpGbguxWlNPMc5f.jpg" tvg-country="" tvg-url="" group-title="",Project Wolf Hunting                    
+http://103.152.18.18/Data/Movies/korean/Project%20Wolf%20Hunting%20(2022)/Project.Wolf.Hunting.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e87mnR1R74nXnMrJVXnr8jdJnaF.jpg" tvg-country="" tvg-url="" group-title="",Boogie Nights                    
+http://103.152.18.18/Data/Movies/korean/Boogie%20Nights%20(2022)/Boogie.Nights.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg" tvg-country="" tvg-url="" group-title="",The Old Way                    
 http://59.153.203.202/Data/All_Movies/hollywood/2022/The%20Old%20Way%20(2023)/The.Old.Way.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/26yQPXymbWeCLKwcmyL8dRjAzth.jpg" tvg-country="" tvg-url="" group-title="",Devotion                   
