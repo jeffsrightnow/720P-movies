@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iXMvYIlzzJBs352CfeiQcBvovZt.jpg" tvg-country="" tvg-url="" group-title="",After Earth   
-http://103.152.18.18/Data/Movies/hollywood/2013/After%20Earth%20(2013)/After%20Earth%20(2013).mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/l3oLSPQxbhktYr7fL4dl1X06x3A.jpg" tvg-country="" tvg-url="" group-title="",Battle of Los Angeles   
-http://103.152.18.18/Data/Movies/hollywood/2011/Battle%20Los%20Angeles%20(2011)/Battle%20Los%20Angeles%202011.mp4
+http://59.153.203.202/Data/All_Movies/hollywood/2013/After%20Earth%20(2013)/After%20Earth%20(2013).mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" tvg-country="" tvg-url="" group-title="",Titanic   
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Titanic%20(1997)/Titanic.1997.720p.BluRay.x264-[YTS.AG].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/tN9GcKHoYwI35b4fYC6Y3kfo2X.jpg" tvg-country="" tvg-url="" group-title="",Transformers: The Last Knight   
 http://59.153.203.202/Data/All_Movies/hollywood/2017/Transformers%20The%20Last%20Knight%20(2017)/Transformers%20The%20Last%20Knight%20(2017).mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qwoGfcg6YUS55nUweKGujHE54Wy.jpg" tvg-country="" tvg-url="" group-title="",Pirates of the Caribbean: Dead Men Tell No Tales   
