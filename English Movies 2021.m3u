@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPV6iMhltNaU7sOTLm9ytkxlQ1U.jpg" tvg-country="" tvg-url="" group-title="",Pathaan                  
+http://59.153.203.202/Data/All_Movies/bollywood/2023/Pathaan%20(2023)/Pathaan.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wfZklSVDJPpHT0Arq4A8GY8Q9S9.jpg" tvg-country="" tvg-url="" group-title="",Snow Falls                   
 http://59.153.203.202/Data/All_Movies/hollywood/2023/Snow%20Falls%20(2023)/Snow.Falls.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e49Sr3Lxfk2psYhv1SzQjs7MeGo.jpg" tvg-country="" tvg-url="" group-title="",There's Something Wrong with the Children                    
