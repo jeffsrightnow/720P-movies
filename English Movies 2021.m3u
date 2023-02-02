@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" tvg-country="" tvg-url="" group-title="",M3GAN                         
+http://59.153.203.202/Data/All_Movies/hollywood/2022/M3GAN%20(2022)/M3GAN.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/to4cAjZoTBjCHLq81UtElEZiP7T.jpg" tvg-country="" tvg-url="" group-title="",Imani                        
+http://59.153.203.202/Data/All_Movies/hollywood/2023/Imani%20(2023)/Imani.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg" tvg-country="" tvg-url="" group-title="",JUNG_E                        
+http://59.153.203.202/Data/All_Movies/hollywood/2023/Jung_E%20(2023)/Jung_E.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/ci2vrL970Q9Ckcpc3GVYlEwhx4n.jpg" tvg-country="" tvg-url="" group-title="",Black Panther:Wakanda Forever                        
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Black%20Panther%20Wakanda%20Forever%20(2022)/Black.Panther.Wakanda.Forever.2022.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPV6iMhltNaU7sOTLm9ytkxlQ1U.jpg" tvg-country="" tvg-url="" group-title="",Pathaan                  
 http://59.153.203.202/Data/All_Movies/bollywood/2023/Pathaan%20(2023)/Pathaan.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wfZklSVDJPpHT0Arq4A8GY8Q9S9.jpg" tvg-country="" tvg-url="" group-title="",Snow Falls                   
@@ -79,8 +87,6 @@ http://59.153.203.202/Data/All_Movies/hollywood/2022/Paradise%20City%20(2022)/Pa
 http://103.152.18.18/Data/Movies/hollywood/2022/The%20Last%20Manhunt%20(2022)/The.Last.Manhunt.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wawP3mOUeRBrAtnbPwWK5eFaMdV.jpg" tvg-country="" tvg-url="" group-title="",Black Panther: Lesson Plan                        
 https://ftp1.aliflailabd.com/English%20Movies/2022/Lesson%20Plan/Lesson%20Plan%20%282022%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BHin%2BEng%2BPol%5D%20ESub%20DDP5.1%20Atmos%20H264.mkv
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/ci2vrL970Q9Ckcpc3GVYlEwhx4n.jpg" tvg-country="" tvg-url="" group-title="",Black Panther: Wakanda Forever                        
-http://103.152.18.18/Data/Movies/hollywood/2022/Black%20Panther%20Wakanda%20Forever%20(2022)/Black.Panther.Wakanda.Forever.2022.720p.CAMRip.English.1XBET.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg" tvg-country="" tvg-url="" group-title="",Black Adam                        
 http://103.152.18.18/Data/Movies/hollywood/2022/Black%20Adam%20(2022)/Black.Adam.2022.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Hdjclma1lkMeJDsA7VfpOY4Jrd.jpg" tvg-country="" tvg-url="" group-title="",Arthur Malediction                        
