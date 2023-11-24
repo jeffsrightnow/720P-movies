@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/9Ea4vQCWzj2wtufVcvvB1zKTnUC.jpg" tvg-country="" tvg-url="" group-title="",Overlord    
+http://server2.ftpbd.net/FTP-2/English%20Movies/2018/Overlord%20%282018%29%20BluRay%201080p/Overlord.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg" tvg-country="" tvg-url="" group-title="",Inglourious Basterds     
+http://server2.ftpbd.net/FTP-2/English%20Movies/2009/Inglourious%20Basterds%20%282009%29%20720p/Inglourious%20Basterds%202009%20720p%20Esub%20BluRay.mkv
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg" tvg-country="" tvg-url="" group-title="",War of the Worlds    
+http://server2.ftpbd.net/FTP-2/English%20Movies/2015/War%20Of%20The%20Worlds%202005%201080p/War.Of.The.Worlds.2005.1080p.BluRay.x264.AC3-ETRG.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/9OPTQSlhMAJhZSLb4c4aFxBuxQV.jpg" tvg-country="" tvg-url="" group-title="",Predator      
 http://server2.ftpbd.net/FTP-2/English%20Movies/%281995%29%20%26%20Before/Predator%20-%201987%20-%20720p/Predator%201987%20Ultimate%20Hunter%20Edition%20BluRay%20720p%20DTS%20x264-3Li.mkv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg" tvg-country="" tvg-url="" group-title="",The Rock     
@@ -18,9 +24,9 @@ http://server2.ftpbd.net/FTP-2/English%20Movies/2018/The%20Equalizer%202%20%2820
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg" tvg-country="" tvg-url="" group-title="",The Equalizer   
 http://server2.ftpbd.net/FTP-2/English%20Movies/2014/The%20Equalizer%20%282014%29%20%5B1080p%5D/The.Equalizer.2014.1080p.BluRay.x264.YIFY.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/9oogeAwlvoiePO6MVVKfGel4gJ2.jpg" tvg-country="" tvg-url="" group-title="",San Andreas    
-https://fs.plus.net.bd/Movies/English/2015/San%20Andreas%20%282015%29/San%20Andreas%20%282015%29.MP4
+http://server2.ftpbd.net/FTP-2/English%20Movies/2015/San%20Andreas%20%282015%29%201080p/San.Andreas.2015.1080p.BluRay.x264.YIFY.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg" tvg-country="" tvg-url="" group-title="",World War Z   
-https://fs.plus.net.bd/Movies/English/2013/World%20War%20Z%20%282013%29/World%20War%20Z%20%282013%29.mkv
+http://server2.ftpbd.net/FTP-2/English%20Movies/2013/World%20War%20Z%20%282013%29%20-%20720p/World%20War%20Z%202013%20720p%20Bluray%20x264-Srkfan.mkv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/j3BrQDIKThJU46vVNMCFUGZIEyW.jpg" tvg-country="" tvg-url="" group-title="",Man of Steel
 https://fs.plus.net.bd/Movies/English/2013/Man%20of%20Steel%20%282013%29/Man.of.Steel.2013.1080p.BluRay.x264.YIFY.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/90tX00ak8aPLrtx2hsIS6XSUzlO.jpg" tvg-country="" tvg-url="" group-title="",Oblivion
