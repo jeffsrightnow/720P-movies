@@ -1,24 +1,10 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/9Ea4vQCWzj2wtufVcvvB1zKTnUC.jpg" tvg-country="" tvg-url="" group-title="",Overlord    
-http://server2.ftpbd.net/FTP-2/English%20Movies/2018/Overlord%20%282018%29%20BluRay%201080p/Overlord.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg" tvg-country="" tvg-url="" group-title="",Inglourious Basterds     
-http://server2.ftpbd.net/FTP-2/English%20Movies/2009/Inglourious%20Basterds%20%282009%29%20720p/Inglourious%20Basterds%202009%20720p%20Esub%20BluRay.mkv
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/pqNBo3NDOt5LwzMGalt8zlL5nxC.jpg" tvg-country="" tvg-url="" group-title="",War of the Worlds    
-http://server2.ftpbd.net/FTP-2/English%20Movies/2015/War%20Of%20The%20Worlds%202005%201080p/War.Of.The.Worlds.2005.1080p.BluRay.x264.AC3-ETRG.mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/9OPTQSlhMAJhZSLb4c4aFxBuxQV.jpg" tvg-country="" tvg-url="" group-title="",Predator      
-http://server2.ftpbd.net/FTP-2/English%20Movies/%281995%29%20%26%20Before/Predator%20-%201987%20-%20720p/Predator%201987%20Ultimate%20Hunter%20Edition%20BluRay%20720p%20DTS%20x264-3Li.mkv
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg" tvg-country="" tvg-url="" group-title="",The Rock     
-http://server2.ftpbd.net/FTP-2/English%20Movies/1996/The%20Rock%20%281996%29%20720p/The.Rock.1996.720p.BrRip.x264.YIFY.mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/fp6fLv5mgAcgEubK6JlLSWX5cTJ.jpg" tvg-country="" tvg-url="" group-title="",Blood Diamond    
-http://server2.ftpbd.net/FTP-2/English%20Movies/2006/Blood%20Diamond%20%282006%29%201080p/Blood.Diamond.2006.1080p.BrRip.x264.YIFY.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/xbrDoVCiNwuHvGSo62Xp10A2p8V.jpg" tvg-country="" tvg-url="" group-title="",Kingdom of Heaven   
-http://server2.ftpbd.net/FTP-2/English%20Movies/2005/Kingdom%20of%20Heaven%20%282005%29%201080p/Kingdom%20of%20Heaven%20%282005%29%201080p.Molpol.mkv
+http://103.77.60.242/Data/movies/hollywood/2005/Kingdom%20of%20Heaven%20(2005)/Kingdom%20of%20Heaven%20(2005).mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg" tvg-country="" tvg-url="" group-title="",Constantine   
-http://server2.ftpbd.net/FTP-2/English%20Movies/2005/Constantine%20%282005%29%20720p%20%5BDual%20Audio%5D%5BEnglish%2BHindi%5D/Constantine%20%282005%29%20BRRip%20720p%20x264%20%5BDual%20Audio%5D%5BEnglish%20%2B%20Hindi%5D--prisak--%7BHKRG%7D.mkv
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/a8jmJPs5eZBARmnuEEvZwbjwyz4.jpg" tvg-country="" tvg-url="" group-title="",The Last Samurai    
-http://server2.ftpbd.net/FTP-2/English%20Movies/2003/The%20Last%20Samurai%20%5B2003%5D/The%20Last%20Samurai%20%5B2003%5D.mkv
+http://103.77.60.242/Data/movies/hollywood/2005/Constantine%20(2005)/Constantine%20(2005).mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/imGygQbmuc7gC1JZiAVhJLsUWXq.jpg" tvg-country="" tvg-url="" group-title="",Black Hawk Down    
-http://server2.ftpbd.net/FTP-2/English%20Movies/2001/Black%20Hawk%20Down%20%282001%29%20720p/Black%20Hawk%20Down%20%282001%29%20720p%20BrRip%20x264%20YIFY.mp4
+http://103.77.60.242/Data/movies/hollywood/2021/Black%20Hawk%20Down%20(2001)/Black%20Hawk%20Down%20(2001)%20720p%20BrRip%20x264%20YIFY.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg" tvg-country="" tvg-url="" group-title="",The Equalizer 2   
 http://server2.ftpbd.net/FTP-2/English%20Movies/2018/The%20Equalizer%202%20%282018%29%20BluRay%201080p/The.Equalizer.2.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg" tvg-country="" tvg-url="" group-title="",The Equalizer   
@@ -38,7 +24,7 @@ https://fs.plus.net.bd/Movies/English/2001-2010/Troy%20%282004%29/Troy%20%5B2004
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipJ4mgqse6uoTRsDyU3TXmva1rt.jpg" tvg-country="" tvg-url="" group-title="",Ninja Assassin   
 https://fs.plus.net.bd/Movies/English/2001-2010/Ninja%20Assassin%20%282009%29%20/Ninja.Assassin.2009.720p.BrRip.x264.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg" tvg-country="" tvg-url="" group-title="",I Am Legend    
-https://fs.plus.net.bd/Movies/English/2001-2010/I%20Am%20Legend%20%282007%29%20/I.am.legend.720p.450mbmu.mkv
+http://103.77.60.242/Data/movies/bollywood/2000-2014/I%20Am%20(2010)/I%20Am%20(2010)%20-%20DVDRip%20-%20Team%20MJY%20-%20MovieJockey.avi
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/gwMbDrDJpNpuStPUFUxM8onQHBp.jpg" tvg-country="" tvg-url="" group-title="",The Meg   
 https://fs.plus.net.bd/Movies/English/2018/The%20Meg%20%282018%29/The.Meg.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg" tvg-country="" tvg-url="" group-title="",Insidious: The Last Key    
