@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z8CExJekGrEThbpMXAmCFvvgoJR.jpg" tvg-country="" tvg-url="" group-title="",Army of the Dead  
+http://103.77.60.242/Data/movies/hollywood/2021/Army%20Of%20The%20Dead%20(2021)/Army.Of.The.Dead.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg" tvg-country="" tvg-url="" group-title="",Outside the Wire  
+http://103.77.60.242/Data/movies/hollywood/2021/Outside%20The%20Wire%20(2021)/Outside.The.Wire.2021.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg" tvg-country="" tvg-url="" group-title="",Mortal Kombat  
+http://103.77.60.242/Data/movies/hollywood/2021/Mortal%20Kombat%20(2021)/Mortal.Kombat.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lAXONuqg41NwUMuzMiFvicDET9Y.jpg" tvg-country="" tvg-url="" group-title="",Red Notice  
+http://103.77.60.242/Data/movies/hollywood/2021/Red%20Notice%20(2021)/Red.Notice.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg" tvg-country="" tvg-url="" group-title="",Zack Snyder's Justice League  
+http://103.77.60.242/Data/movies/hollywood/2021/Zack%20Snyder's%20Justice%20League%20(2021)/Zack.Snyders.Justice.League.2021.1080p.HDRip.AAC2.0.x264-PD.mkv
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5weKu49pzJCt06OPpjvT80efnQj.jpg" tvg-country="" tvg-url="" group-title="",Spider-Man: No Way Home   
+http://103.77.60.242/Data/movies/hollywood/2022/Spider-Man%20No%20Way%20Home%20(2021)/Spider-Man.No.Way.Home.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/xbrDoVCiNwuHvGSo62Xp10A2p8V.jpg" tvg-country="" tvg-url="" group-title="",Kingdom of Heaven   
 http://103.77.60.242/Data/movies/hollywood/2005/Kingdom%20of%20Heaven%20(2005)/Kingdom%20of%20Heaven%20(2005).mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg" tvg-country="" tvg-url="" group-title="",Constantine   
