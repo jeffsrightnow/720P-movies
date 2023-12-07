@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/xzUnkQGqPjL14wQYBk2MnpKF9kl.jpg" tvg-country="" tvg-url="" group-title="",Napoleon                         
+http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/2023/Napoleon%20%282023%29%201080p%20HDTS%20%5BDual%20Audio%5D/Napoleon%202023%20HDTS%201080p%20Hindi%20English%20AAC%202.0%20x264.mkv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg" tvg-country="" tvg-url="" group-title="",Freelance                         
 http://103.77.60.242/Data2/CDN%20FILE/Movies/English/2023/Freelance%20(2023)/Freelance.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/443c0xNTLackGkFOKfbPClKMpIk.jpg" tvg-country="" tvg-url="" group-title="",In the Land of Saints and Sinners                          
@@ -9,6 +11,8 @@ http://103.77.60.242/Data2/CDN%20FILE/Movies/English/2023/Woman%20In%20The%20Maz
 http://103.77.60.242/Data2/CDN%20FILE/Movies/English/2023/Night%20Of%20The%20Missing%20(2023)/Night.Of.The.Missing.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vwfd0gAi9A4tT38Kf7mEulGnAwj.jpg" tvg-country="" tvg-url="" group-title="",How She Caught A Killer                        
 http://103.77.60.242/Data2/CDN%20FILE/Movies/English/2023/How%20She%20Caught%20A%20Killer%20(2023)/How.She.Caught.A.Killer.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg" tvg-country="" tvg-url="" group-title="",Killers of the Flower Moon                       
+http://server2.ftpbd.net/FTP-2/English%20Movies/2023/Killers%20of%20the%20Flower%20Moon%20%282023%29%201080p%20WEBRip/Killers.Of.The.Flower.Moon.2023.1080p.WEBRip.x264.AAC5.1.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bcuEjrwhp5HgEUnFe5lc4xpEqzt.jpg" tvg-country="" tvg-url="" group-title="",The Marsh King's Daughter                        
 http://103.77.60.242/Data2/CDN%20FILE/Movies/English/2023/The%20Marsh%20Kings%20Daughter%20(2023)/The.Marsh.Kings.Daughter.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/fjzpptTwFoIduPrAUGmlqxaLKhm.jpg" tvg-country="" tvg-url="" group-title="",Tiger 3                       
@@ -176,7 +180,7 @@ http://103.77.60.242/Data/movies/english/2023/The%20Channel%20(2023)/The.Channel
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tbyhg1DxQkkKUmQ60x7dqGxPvt1.jpg" tvg-country="" tvg-url="" group-title="",The Flood                    
 http://103.77.60.242/Data/movies/hollywood/2020/The%20Flood%20(2020)/The.Flood.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" tvg-country="" tvg-url="" group-title="",Oppenheimer                    
-http://103.77.60.242/Data/movies/english/2023/Oppenheimer%20(2023)/Oppenheimer.mp4
+http://server2.ftpbd.net/FTP-2/English%20Movies/2023/Oppenheimer%20%282023%29%201080p%20BluRay/Oppenheimer.2023.BluRay.1080p.x264.IMAX.English.Esubs.mkv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg" tvg-country="" tvg-url="" group-title="",God Is a Bullet                     
 http://103.77.60.242/Data2/CDN%20FILE/Movies/English/2023/God%20Is%20A%20Bullet%20(2023)/God.Is.A.Bullet.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qmevjlNDaWoEughGlXFWHbQ4TaR.jpg" tvg-country="" tvg-url="" group-title="",Justice League: Warworld                      
