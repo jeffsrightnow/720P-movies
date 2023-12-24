@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg" tvg-country="" tvg-url="" group-title="",The Hunger Games: The Ballad of Songbirds & Snakes                           
+http://103.145.76.250/Data/movies/hollywood/2023/The%20Hunger%20Games%20The%20Ballad%20Of%20Songbirds%20Snakes%20(2023)/The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX]~2.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg" tvg-country="" tvg-url="" group-title="",The Family Plan                           
 http://103.145.76.250/Data/movies/hollywood/2023/The%20Family%20Plan%20(2023)/The.Family.Plan.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iv5ELWVKi5MSKaBE9RzBIMpYWHK.jpg" tvg-country="" tvg-url="" group-title="",The Portrait                          
@@ -147,8 +149,6 @@ http://103.77.60.242/Data/movies/english/2023/The%20Passenger%20(2023)/The.Passe
 http://103.77.60.242/Data/movies/english/2023/The%20Collective%20(2023)/The.Collective.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg" tvg-country="" tvg-url="" group-title="",The Monkey King                        
 http://103.77.60.242/Data2/CDN%20FILE/Movies/animation/new/The%20Monkey%20King%20(2023)/The.Monkey.King.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xaeQ0aWve7rNbrht4a3l3onM9qQ.jpg" tvg-country="" tvg-url="" group-title="",Miguel Wants to Fight                       
-https://fs.plus.net.bd/Movies/English/2023/Miguel%20Wants%20To%20Fight%20%282023%29/Miguel.Wants.To.Fight.2023.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg" tvg-country="" tvg-url="" group-title="",Cobweb                      
 http://103.77.60.242/Data2/CDN%20FILE/Movies/English/2023/Cobweb%20(2023)/Cobweb.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/nqPQ3Ay3DAmvX1pqSHS4iNVQVFG.jpg" tvg-country="" tvg-url="" group-title="",Heart of Stone                      
