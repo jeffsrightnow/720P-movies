@@ -1,6 +1,20 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pwOQ9lqLX1OgsJRSybS662wMcu8.jpg" tvg-country="" tvg-url="" group-title="",The Bricklayer                              
+http://103.145.232.246/Data/movies/Hollywood/2023/The%20Bricklayer%20(2023)/The.Bricklayer.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xBFyJHvXCTgf9Vmq5uCnXRHrMQ4.jpg" tvg-country="" tvg-url="" group-title="",Ferrari                              
+http://103.145.232.246/Data/movies/Hollywood/2024/Ferrari%20%282023%29/Ferrari.2023.REPACK.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg" tvg-country="" tvg-url="" group-title="",Night Swim                               
+http://103.145.232.246/Data/movies/Hollywood/2024/Night%20Swim%20%282024%29/Night.Swim.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4O6nybWUMSIEmeu8uNrk5jEdaet.jpg" tvg-country="" tvg-url="" group-title="",Lost Phoenix                               
+http://103.145.232.246/Data/movies/Hollywood/2024/Lost%20Phoenix%20%282024%29/Lost.Phoenix.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pmdgdb8biQLLzTjySZLPdK13KwM.jpg" tvg-country="" tvg-url="" group-title="",Wanted Man                              
+http://103.145.232.246/Data/movies/Hollywood/2024/Wanted%20Man%20%282024%29/Wanted.Man.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gma8o1jWa6m0K1iJ9TzHIiFyTtI.jpg" tvg-country="" tvg-url="" group-title="",Lift                              
+http://103.145.232.246/Data/movies/Hindi%20dubbed/Lift%20(2024)/Lift.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/qJiWKzdRScI5OcRQqOu3qdMZKXY.jpg" tvg-country="" tvg-url="" group-title="",Aquaman and the Lost Kingdom                              
 http://103.145.232.246/Data/movies/Hollywood/2023/Aquaman%20and%20the%20Lost%20Kingdom%20(2023)/Aquaman%20and%20the%20Lost%20Kingdom.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" tvg-country="" tvg-url="" group-title="",The Beekeeper                            
+http://103.145.232.246/Data/movies/Hollywood/2024/The%20Beekeeper%20%282024%29/The%20Beekeeper.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jojfbnIHGsRpodIood3OQoqA45Y.jpg" tvg-country="" tvg-url="" group-title="",Sixty Minutes                             
 http://103.145.232.246/Data/movies/Hollywood/2024/Sixty%20Minutes%20%282024%29/Sixty.Minutes.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h1BtcTEk0pbe9XhbxrAp2oLKoWb.jpg" tvg-country="" tvg-url="" group-title="",Hellhound                              
@@ -11,8 +25,6 @@ http://103.145.232.246/Data/movies/Hollywood/2024/Sunrise%20%282024%29/Sunrise.2
 http://103.145.232.246/Data/movies/Hollywood/2024/The%20Boys%20In%20The%20Boat%20%282023%29/The.Boys.In.The.Boat.2023.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qhb1qOilapbapxWQn9jtRCMwXJF.jpg" tvg-country="" tvg-url="" group-title="",Wonka                               
 http://103.145.232.246/Data/movies/Hollywood/2024/Wonka%20%282023%29/Wonka.2023.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" tvg-country="" tvg-url="" group-title="",The Beekeeper                            
-http://103.145.232.246/Data/movies/Hollywood/2024/The%20Beekeeper%20%282024%29/The%20Beekeeper.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg" tvg-country="" tvg-url="" group-title="",The Painter                           
 http://103.145.232.246/Data/movies/Hollywood/2024/The%20Painter%20%282024%29/The.Painter.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6Bd17axAG0qJ6YIU3SoootXV0Cz.jpg" tvg-country="" tvg-url="" group-title="",The Night They Came Home                           
