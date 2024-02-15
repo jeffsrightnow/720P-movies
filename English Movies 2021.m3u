@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg" tvg-country="" tvg-url="" group-title="",I.S.S.                              
+http://103.145.232.246/Data/movies/Hollywood/2024/I.S.S.%20%282023%29/I.S.S..2023.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jSR06FpV1H36OmW0jfEmvG73l2r.jpg" tvg-country="" tvg-url="" group-title="",Cult Killer                              
+http://103.145.232.246/Data/movies/Hollywood/2024/Cult%20Killer%20%282024%29/Cult.Killer.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1bInaCHjiMPlcnH5KP4XO5Rz4uG.jpg" tvg-country="" tvg-url="" group-title="",ClearMind                              
+http://103.145.232.246/Data/movies/Hollywood/2024/ClearMind%20%282024%29/ClearMind.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3XwylJi2GRLAEqhIUb9tf9ue4Hn.jpg" tvg-country="" tvg-url="" group-title="",Calamity Jane                              
+http://103.145.232.246/Data/movies/Hollywood/2024/Calamity%20Jane%20%282024%29/Calamity.Jane.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dXjSeS3w97setnrNv4m6tlqqXzn.jpg" tvg-country="" tvg-url="" group-title="",Bosco                              
+http://103.145.232.246/Data/movies/Hollywood/2024/Bosco%20%282024%29/Bosco.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pwOQ9lqLX1OgsJRSybS662wMcu8.jpg" tvg-country="" tvg-url="" group-title="",The Bricklayer                              
 http://103.145.232.246/Data/movies/Hollywood/2023/The%20Bricklayer%20(2023)/The.Bricklayer.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xBFyJHvXCTgf9Vmq5uCnXRHrMQ4.jpg" tvg-country="" tvg-url="" group-title="",Ferrari                              
