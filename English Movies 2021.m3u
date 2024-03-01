@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/fRT4GwQygR2ejgLpo8orADfO0Xm.jpg" tvg-country="" tvg-url="" group-title="",Out of Darkness                                 
+http://103.145.232.246/Data/movies/Hollywood/2022/Out%20of%20Darkness%20(2022)/Out%20of%20Darkness.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" tvg-country="" tvg-url="" group-title="",Mea Culpa                                
+http://103.145.232.246/Data/movies/Hollywood/2024/Mea%20Culpa%20%282024%29/Mea.Culpa.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg" tvg-country="" tvg-url="" group-title="",Red Right Hand                                
+http://103.145.232.246/Data/movies/Hollywood/2024/Red%20Right%20Hand%20%282024%29/Red.Right.Hand.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/usDIBB0hOqLM8wMSGistfqxjukZ.jpg" tvg-country="" tvg-url="" group-title="",Lights Out                                
+http://103.145.232.246/Data/movies/Hollywood/2024/Lights%20Out%20%282024%29/Lights.Out.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nKPoSD4pZ3s3CJ9g3cqWRcQ41TC.jpg" tvg-country="" tvg-url="" group-title="",Air Force One Down                               
 http://103.145.232.246/Data/movies/Hollywood/2024/Air%20Force%20One%20Down%20%282024%29/Air.Force.One.Down.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg" tvg-country="" tvg-url="" group-title="",Land of Bad                               
