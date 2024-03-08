@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/87jZEVp4FW6GwTx56mbbqIQQF75.jpg" tvg-country="" tvg-url="" group-title="",Dune: Part Two                                  
+http://103.145.232.246/Data/movies/Hollywood/2024/Dune%3A%20Part%20Two%20%282024%29/Dune%20Part%20Two.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qmfkYHcFEwGDGWNd1B4KvSCoezr.jpg" tvg-country="" tvg-url="" group-title="",Stranger in the Woods                                 
+http://103.145.232.246/Data/movies/Hollywood/2024/Stranger%20In%20The%20Woods%20%282024%29/Stranger.In.The.Woods.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5szPceoDBlWf5T1LEJSY0WRX3BM.jpg" tvg-country="" tvg-url="" group-title="",Planetquake                                 
+http://103.145.232.246/Data/movies/Hollywood/2024/Planetquake%20%282024%29/Planetquake.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glZRP5M0uDoAzYKLB2XcCc8Gaep.jpg" tvg-country="" tvg-url="" group-title="",Parallel                                  
+http://103.145.232.246/Data/movies/Hollywood/2024/Parallel%20%282024%29/Parallel.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5hnFFOWEchErNVr0wMLWFEob3q1.jpg" tvg-country="" tvg-url="" group-title="",Spaceman                                  
+http://103.145.232.246/Data/movies/Hollywood/2024/Spaceman%20%282024%29/Spaceman.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/fRT4GwQygR2ejgLpo8orADfO0Xm.jpg" tvg-country="" tvg-url="" group-title="",Out of Darkness                                 
 http://103.145.232.246/Data/movies/Hollywood/2022/Out%20of%20Darkness%20(2022)/Out%20of%20Darkness.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" tvg-country="" tvg-url="" group-title="",Mea Culpa                                
