@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/lZMn5VqchwnHi6noAehuxMJ947.jpg" tvg-country="" tvg-url="" group-title="",Madame Web                                 
+http://103.145.232.246/Data/movies/Hollywood/2024/Madame%20Web%20%282024%29/Madame.Web.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/toEJOPYvM7Na0XwM8exg8aHq553.jpg" tvg-country="" tvg-url="" group-title="",5lbs of Pressure                                  
+http://103.145.232.246/Data/movies/Hollywood/2024/5lbs%20Of%20Pressure%20%282024%29/5lbs.Of.Pressure.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uSLYBuDTHpTAJI9vcm2brMu4J9H.jpg" tvg-country="" tvg-url="" group-title="",Butchers Book Two: Raghorn                                  
+http://103.145.232.246/Data/movies/Hollywood/2024/Butchers%20Book%20Two%20Raghorn%20%282024%29/Butchers.Book.Two.Raghorn.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/87jZEVp4FW6GwTx56mbbqIQQF75.jpg" tvg-country="" tvg-url="" group-title="",Dune: Part Two                                  
 http://103.145.232.246/Data/movies/Hollywood/2024/Dune%3A%20Part%20Two%20%282024%29/Dune%20Part%20Two.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qmfkYHcFEwGDGWNd1B4KvSCoezr.jpg" tvg-country="" tvg-url="" group-title="",Stranger in the Woods                                 
