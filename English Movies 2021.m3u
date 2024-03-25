@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/w2aHCNHveFqZrSVi8bwnqm0kzb3.jpg" tvg-country="" tvg-url="" group-title="",Prey                                
+http://103.145.232.246/Data/movies/Hollywood/2024/Prey%20%282024%29/Prey.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4eWeXswkAUIvdVWFvPrUFu2TxuI.jpg" tvg-country="" tvg-url="" group-title="",Bob Marley: One Love                                 
+http://103.145.232.246/Data/movies/Hollywood/2024/Bob%20Marley%20One%20Love%20%282024%29/Bob.Marley.One.Love.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/lZMn5VqchwnHi6noAehuxMJ947.jpg" tvg-country="" tvg-url="" group-title="",Madame Web                                 
 http://103.145.232.246/Data/movies/Hollywood/2024/Madame%20Web%20%282024%29/Madame.Web.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/toEJOPYvM7Na0XwM8exg8aHq553.jpg" tvg-country="" tvg-url="" group-title="",5lbs of Pressure                                  
