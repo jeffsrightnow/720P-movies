@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/2eqUNum6QOQPvP677chjstOEvow.jpg" tvg-country="" tvg-url="" group-title=""Exodus: Gods and Kings
+http://103.145.232.246/Data/movies/Hollywood/2014/Exodus%3A%20Gods%20and%20Kings%20%282014%29/Exodus%20Gods%20and%20Kings.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/hdjKchAHkyzxwfX6ttF1HyF2WyZ.jpg" tvg-country="" tvg-url="" group-title=""Safe House
+http://103.145.232.246/Data/movies/Hollywood/2012/Safe%20House%20%282012%29/Safe%20House.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/n7ghONXULedriOxF9vKbHDYe7XF.jpg" tvg-country="" tvg-url="" group-title=""Kong: Skull Island
+http://103.145.232.246/Data/movies/Hollywood/2017/Kong%20Skull%20Island%20%282017%29/Kong%20Skull%20Island.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mMA1qhBFgZX8O36qPPTC016kQl1.jpg" tvg-country="" tvg-url="" group-title=""War for the Planet of the Apes
+http://103.145.232.246/Data/movies/Hollywood/random/War%20for%20the%20Planet%20of%20the%20Apes%20(2017)/War%20for%20the%20Planet%20of%20the%20Apes.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGyB8kVPQsofyQV1T0jE2d6k4q4.jpg" tvg-country="" tvg-url="" group-title=""Ong Bak 2
 http://103.145.232.246/Data/movies/Hollywood/2008/Ong%20Bak%202%20(2008)/Ong%20Bak%202%20(2008).mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg" tvg-country="" tvg-url="" group-title=""Iron Man 3
