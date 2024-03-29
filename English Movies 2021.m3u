@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/v4uvGFAkKuYfyKLGZnYj6l47ERQ.jpg" tvg-country="" tvg-url="" group-title="",Godzilla x Kong: The New Empire                                
+http://103.145.232.246/Data/movies/Hollywood/2024/Godzilla%20x%20Kong%20The%20New%20Empire%20%282024%29/Godzilla%20x%20Kong%20The%20New%20Empire.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg" tvg-country="" tvg-url="" group-title="",Imaginary                                
+http://103.145.232.246/Data/movies/Hollywood/2024/Imaginary%20%282024%29/Imaginary.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/avet7KbWhIwwhHZ4JSnbSpEzeTX.jpg" tvg-country="" tvg-url="" group-title="",Snow Valley                                
+http://103.145.232.246/Data/movies/Hollywood/2024/Snow%20Valley%20%282024%29/Snow.Valley.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mbz1Pn6ZFPl6WHFFEaYu4XhkR2t.jpg" tvg-country="" tvg-url="" group-title="",Sentinel                                
+http://103.145.232.246/Data/movies/Hollywood/2024/Sentinel%20%282024%29/Sentinel.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/w2aHCNHveFqZrSVi8bwnqm0kzb3.jpg" tvg-country="" tvg-url="" group-title="",Prey                                
 http://103.145.232.246/Data/movies/Hollywood/2024/Prey%20%282024%29/Prey.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4eWeXswkAUIvdVWFvPrUFu2TxuI.jpg" tvg-country="" tvg-url="" group-title="",Bob Marley: One Love                                 
