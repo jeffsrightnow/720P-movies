@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/h4T8Xeydkw53h9uIbulYsss25UF.jpg" tvg-country="" tvg-url="" group-title="",Arcadian                                    
+http://103.145.232.246/Data/movies/Hollywood/2024/Arcadian%20%282024%29/Arcadian.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/cA6uqwvvG50gGJwqK3SwEq3HB35.jpg" tvg-country="" tvg-url="" group-title="",Chief of Station                                    
+http://103.145.232.246/Data/movies/Hollywood/2024/Chief%20Of%20Station%20%282024%29/Chief.Of.Station.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1iWGGxHEwswZGvPSoMZlLFf0PNq.jpg" tvg-country="" tvg-url="" group-title="",Something in the Water                                   
+http://103.145.232.246/Data/movies/Hollywood/2024/Something%20In%20The%20Water%20%282024%29/Something.In.The.Water.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/jT6awzVlAf0ZOoXbWhIXu1y5sDu.jpg" tvg-country="" tvg-url="" group-title="",The First Omen                                  
+http://103.145.232.246/Data/movies/Hollywood/2024/The%20First%20Omen%20%282024%29/The.First.Omen.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/hl174Zhm7D7X0bH1ON5ElBE6XgK.jpg" tvg-country="" tvg-url="" group-title="",Arthur the King                                   
+http://103.145.232.246/Data/movies/Hollywood/2024/Arthur%20The%20King%20%282024%29/Arthur.The.King.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/iMGQ1JJCz2K8lMARtNKyH8OJWhq.jpg" tvg-country="" tvg-url="" group-title="",Monkey Man                                   
 http://103.145.232.246/Data/movies/Hollywood/2024/Monkey%20Man%20%282024%29/Monkey.Man.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/rKC5HifAZxm9NEQtvBuXBjQQGgZ.jpg" tvg-country="" tvg-url="" group-title="",Love Lies Bleeding                                   
@@ -155,12 +165,8 @@ http://103.145.232.246/Data/movies/Hollywood/2023/Muzzle%20%282023%29/Muzzle.202
 http://103.145.232.246/Data/movies/Hollywood/2023/Vindicta%20%282023%29/Vindicta.2023.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1tcLXVaXFG9OObnCN3a5KrymrQG.jpg" tvg-country="" tvg-url="" group-title="",Scarygirl                      
 http://103.145.76.250/Data/movies/animation/2023/Scarygirl%20(2023)/Scarygirl.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg" tvg-country="" tvg-url="" group-title="",Expend4bles                     
-http://www.banglatube.net/Data/disk3/movies/hollywood/2023/Expend4bles%20(2023)/Expend4bles.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dfS5qHWFuXyZQnwYREwb7N4qU5p.jpg" tvg-country="" tvg-url="" group-title="",57 Seconds                  
-http://www.banglatube.net/Data/disk3/movies/hollywood/2023/57%20Seconds%20(2023)/57.Seconds.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nXj3iwqUTnVWR95KCkjGT6hle0J.jpg" tvg-country="" tvg-url="" group-title="",Awareness                  
-http://www.banglatube.net/Data/disk3/movies/hindi%20dubbed/Awareness%20(2023)/Awareness.mp4
+http://103.145.232.246/Data/movies/Hollywood/2023/57%20Seconds%20%282023%29/57.Seconds.2023.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k2kbdwwmVKJp6VMUcJYKlL9jQ7d.jpg" tvg-country="" tvg-url="" group-title="",Nowhere                   
 http://www.banglatube.net/Data/disk3/movies/hollywood/2023/Nowhere%20(2023)/Nowhere.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bEyfMRY7frsy1v5yesdQEWjf1qz.jpg" tvg-country="" tvg-url="" group-title="",If You Were the Last                   
