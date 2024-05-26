@@ -1,6 +1,16 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/p8v8csmk1zJgn5O32sJQ8WAldoB.jpg" tvg-country="" tvg-url="" group-title="",Civil War                                    
+http://103.145.232.246/Data/movies/Hollywood/2024/Civil%20War%20%282024%29/Civil.War.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/cDanL8ReB2NZ9RFr3STKb5mJHLr.jpg" tvg-country="" tvg-url="" group-title="",The Fall Guy                                   
 http://103.145.232.246/Data/movies/Hollywood/2024/The%20Fall%20Guy%20%282024%29/The.Fall.Guy.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/25JskXmchcYwj3jHRmcPm738MpB.jpg" tvg-country="" tvg-url="" group-title="",Boy Kills World                                   
+http://103.145.232.246/Data/movies/Hollywood/2024/Boy%20Kills%20World%20%282023%29/Boy.Kills.World.2023.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qFTsoeMg1gGL5OTG0jecBAqlrlM.jpg" tvg-country="" tvg-url="" group-title="",Atlas                                    
+http://103.145.232.246/Data/movies/Hollywood/2024/Atlas%20%282024%29/Atlas.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l3UO18fD7rSPRw8AYB8d19zwxUb.jpg" tvg-country="" tvg-url="" group-title="",American Star                                     
+http://103.145.232.246/Data/movies/Hollywood/2024/American%20Star%20%282024%29/American.Star.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sLcRGIJqlJeoGGk88CtA8Ida5aq.jpg" tvg-country="" tvg-url="" group-title="",Golden Kamuy                                    
+http://103.145.232.246/Data/movies/Hollywood/2024/Golden%20Kamuy%20%282024%29/Golden.Kamuy.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/5Uq8P6MPj9Ppsns5t82AiCiUaWE.jpg" tvg-country="" tvg-url="" group-title="",Abigail                                   
 http://103.145.232.246/Data/movies/Hollywood/2024/Abigail%20%282024%29/Abigail.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jutM6ClbCdMuKEwBLtAhUIK2q0R.jpg" tvg-country="" tvg-url="" group-title="",Chasing Raine                                    
