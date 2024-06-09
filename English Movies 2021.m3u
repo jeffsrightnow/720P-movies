@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v3youHDLigrtIis1NqTjlY8Sk38.jpg" tvg-country="" tvg-url="" group-title="",Cash Out                                    
+http://103.145.232.246/Data/movies/Hollywood/2024/Cash%20Out%20%282024%29/Cash.Out.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/5IRyM2LaWfZcpuwWE1np2eWsdp0.jpg" tvg-country="" tvg-url="" group-title="",Life After Fighting                                   
+http://103.145.232.246/Data/movies/Hollywood/2024/Life%20After%20Fighting%20%282024%29/Life.After.Fighting.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qyT2xw9FBxHlNXQYsuNCu8T7Rbo.jpg" tvg-country="" tvg-url="" group-title="",The Strangers: Chapter 1                                   
+http://103.145.232.246/Data/movies/Hollywood/2024/The%20Strangers%20Chapter%201%20%282024%29/The.Strangers.Chapter.1.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/1B1icnfdpmvZrt23gGLFn8zTfMC.jpg" tvg-country="" tvg-url="" group-title="",The Hangman                                  
+http://103.145.232.246/Data/movies/Hollywood/2024/The%20Hangman%20%282024%29/The.Hangman.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qFTsoeMg1gGL5OTG0jecBAqlrlM.jpg" tvg-country="" tvg-url="" group-title="",Atlas                                    
 http://103.145.232.246/Data/movies/Hollywood/2024/Atlas%20%282024%29/Atlas.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/p8v8csmk1zJgn5O32sJQ8WAldoB.jpg" tvg-country="" tvg-url="" group-title="",Civil War                                    
