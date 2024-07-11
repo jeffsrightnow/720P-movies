@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg" tvg-country="" tvg-url="" group-title="",Humane                                  
+http://103.145.232.246/Data/movies/Hollywood/2024/Humane%20%282024%29/Humane.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eVWHzm6bL4ybAuRLqA10Qo7ACfN.jpg" tvg-country="" tvg-url="" group-title="",The Long Game                                 
+http://103.145.232.246/Data/movies/Hollywood/2024/The%20Long%20Game%20%282023%29/The.Long.Game.2023.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" tvg-country="" tvg-url="" group-title="",Furiosa: A Mad Max Saga                                 
 http://103.145.232.246/Data/movies/Hollywood/2024/Furiosa%20A%20Mad%20Max%20Saga%20%282024%29/Furiosa.A.Mad.Max.Saga.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a2zwexsQINEY2X3XQv6KCzBrvIH.jpg" tvg-country="" tvg-url="" group-title="",Hard Home                                 
