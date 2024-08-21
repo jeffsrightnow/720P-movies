@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/thI9pM7Qu43f42sOOl5wy75UAo.jpg" tvg-country="" tvg-url="" group-title="",The Instigators                             
+http://103.145.232.246/Data/movies/Hollywood/2024/The%20Instigators%20%282024%29/The.Instigators.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/mrdRhs7ZEF8Xw9nBsrQCa0NCvTq.jpg" tvg-country="" tvg-url="" group-title="",The Union                             
+http://103.145.232.246/Data/movies/Hollywood/2024/The%20Union%20%282024%29/The%20Union.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/mrdRhs7ZEF8Xw9nBsrQCa0NCvTq.jpg" tvg-country="" tvg-url="" group-title="",Duchess                            
+http://103.145.232.246/Data/movies/Hollywood/2024/Duchess%20%282024%29/Duchess.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg" tvg-country="" tvg-url="" group-title="",Angels Fallen: Warriors of Peace                              
+http://103.145.232.246/Data/movies/Hollywood/2024/Angels%20Fallen%20Warriors%20Of%20Peace%20%282024%29/Angels.Fallen.Warriors.Of.Peace.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5RvNjlDufqUBH3iHBPb1cS53wXl.jpg" tvg-country="" tvg-url="" group-title="",The Beast Within                              
+http://103.145.232.246/Data/movies/Hollywood/2024/The%20Beast%20Within%20%282024%29/The.Beast.Within.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qYdS4KIdCmJr3WB4CJYnoGaTVbv.jpg" tvg-country="" tvg-url="" group-title="",Breaking and Re-entering                              
+http://103.145.232.246/Data/movies/Hollywood/2024/Break%20%282024%29/Break.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xARXzBLYk3bS95DgYwrzFLiwc4x.jpg" tvg-country="" tvg-url="" group-title="",Broken Lance                              
+http://103.145.232.246/Data/movies/Hollywood/2024/Broken%20Lance%20%282024%29/Broken.Lance.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kg7x4QZHAsOi2QDMYpSBR0cZapG.jpg" tvg-country="" tvg-url="" group-title="",Robin and the Hoods                               
+http://103.145.232.246/Data/movies/Hollywood/2024/Robin%20And%20The%20Hoods%20%282024%29/Robin.And.The.Hoods.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/uAJs2jhnItDahUPGFiYvoIwrl9K.jpg" tvg-country="" tvg-url="" group-title="",Deadpool & Wolverine                               
 http://103.145.232.246/Data/movies/Hollywood/2024/Deadpool%20%26%20Wolverine%20%282024%29/Deadpool%20%26%20Wolverine.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oGythE98MYleE6mZlGs5oBGkux1.jpg" tvg-country="" tvg-url="" group-title="",Bad Boys: Ride or Die                                
