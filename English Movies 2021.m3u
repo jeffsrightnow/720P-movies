@@ -1,9 +1,11 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eEkAY5veAnwxUOOlpF62KawkFO9.jpg" tvg-country="" tvg-url="" group-title="",Gunner                            
+http://103.145.232.246/Data/movies/Hollywood/2024/Gunner%20%282024%29/Gunner.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/thI9pM7Qu43f42sOOl5wy75UAo.jpg" tvg-country="" tvg-url="" group-title="",The Instigators                             
 http://103.145.232.246/Data/movies/Hollywood/2024/The%20Instigators%20%282024%29/The.Instigators.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/mrdRhs7ZEF8Xw9nBsrQCa0NCvTq.jpg" tvg-country="" tvg-url="" group-title="",The Union                             
 http://103.145.232.246/Data/movies/Hollywood/2024/The%20Union%20%282024%29/The%20Union.mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/mrdRhs7ZEF8Xw9nBsrQCa0NCvTq.jpg" tvg-country="" tvg-url="" group-title="",Duchess                            
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5TR7JlJbKucNSq84rkbnjLd1JB5.jpg" tvg-country="" tvg-url="" group-title="",Duchess                            
 http://103.145.232.246/Data/movies/Hollywood/2024/Duchess%20%282024%29/Duchess.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg" tvg-country="" tvg-url="" group-title="",Angels Fallen: Warriors of Peace                              
 http://103.145.232.246/Data/movies/Hollywood/2024/Angels%20Fallen%20Warriors%20Of%20Peace%20%282024%29/Angels.Fallen.Warriors.Of.Peace.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
