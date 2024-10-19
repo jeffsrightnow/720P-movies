@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg" tvg-country="" tvg-url="" group-title="",Azrael                                
+http://103.145.232.246/Data/movies/Hollywood/2024/Azrael%20(2024)/Azrael.2024.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg" tvg-country="" tvg-url="" group-title="",The Killer's Game                               
+http://103.145.232.246/Data/movies/Hollywood/2024/The%20Killers%20Game%20(2024)/The.Killers.Game.2024.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/iz2GabtToVB05gLTVSH7ZvFtsMM.jpg" tvg-country="" tvg-url="" group-title="",Hellboy: The Crooked Man                               
+http://103.145.232.246/Data/movies/Hollywood/2024/Hellboy%20The%20Crooked%20Man%20(2024)/Hellboy.The.Crooked.Man.2024.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg" tvg-country="" tvg-url="" group-title="",Beetlejuice Beetlejuice                               
+http://103.145.232.246/Data/movies/Hollywood/2024/Beetlejuice%20Beetlejuice%20(2024)/Beetlejuice.Beetlejuice.2024.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/pStA6qz6U7WApkdUZ7CrGeMOPDH.jpg" tvg-country="" tvg-url="" group-title="",Wolfs                                
 http://103.145.232.246/Data/movies/Hollywood/2024/Wolfs%20(2024)/Wolfs.2024.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/hgA5hN3NjNNSTXYOmAI6KNKOzbp.jpg" tvg-country="" tvg-url="" group-title="",Kill em All 2                               
