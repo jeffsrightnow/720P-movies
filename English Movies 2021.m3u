@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg" tvg-country="" tvg-url="" group-title="",Red One                                     
+http://103.145.232.246/Data/movies/Hollywood/2024/Red%20One%20%282024%29/Red%20One.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/cNtAslrDhk1i3IOZ16vF7df6lMy.jpg" tvg-country="" tvg-url="" group-title="",Absolution                                     
+http://103.145.232.246/Data/movies/Hollywood/2024/Absolution%20%282024%29/Absolution.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/bx92hl70NUhojjO3eV6LqKllj4L.jpg" tvg-country="" tvg-url="" group-title="",GTMAX                                     
+http://103.145.232.246/Data/movies/Hollywood/2024/GTMax%20%282024%29/GTMax.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/xyKdcbzqX8pG17S4cLKURHlNlvN.jpg" tvg-country="" tvg-url="" group-title="",The Last Redemption                                    
+http://103.145.232.246/Data/movies/Hollywood/2024/The%20Last%20Redemption%20%282024%29/The.Last.Redemption.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/dB6ojZkXfk6JFYaqZTTDUK8wj9O.jpg" tvg-country="" tvg-url="" group-title="",Elyas                                     
+http://103.145.232.246/Data/movies/Hollywood/2024/Elyas%20%282024%29/Elyas.2024.720p.BluRay.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/qbImUt1d3itXcB81BCItPZlfbyr.jpg" tvg-country="" tvg-url="" group-title="",A Legend                                     
+http://103.145.232.246/Data/movies/Hollywood/2024/A%20Legend%20%282024%29/A.Legend.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg" tvg-country="" tvg-url="" group-title="",In a Violent Nature                                     
+http://103.145.232.246/Data/movies/Hollywood/2024/In%20A%20Violent%20Nature%20%282024%29/In.A.Violent.Nature.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg" tvg-country="" tvg-url="" group-title="",Joker: Folie a Deux                                     
+http://103.145.232.246/Data/movies/Hollywood/2024/Joker%20Folie%20%C3%A0%20Deux%20%282024%29/Joker%20Folie%20%C3%A0%20Deux.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/7GC0TEOQ1ljAhtvcwdthAbb5D3h.jpg" tvg-country="" tvg-url="" group-title="",Kali: Avenging Angel                                    
+http://103.145.232.246/Data/movies/Hollywood/2024/Kali%20%282024%29/Kali.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/k42Owka8v91trK1qMYwCQCNwJKr.jpg" tvg-country="" tvg-url="" group-title="",Venom: The Last Dance                                    
 http://103.145.232.246/Data/movies/Hollywood/2024/Venom%20The%20Last%20Dance%20%282024%29/Venom%20The%20Last%20Dance.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg" tvg-country="" tvg-url="" group-title="",Alien: Romulus                                   
