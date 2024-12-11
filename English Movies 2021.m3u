@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/k42Owka8v91trK1qMYwCQCNwJKr.jpg" tvg-country="" tvg-url="" group-title="",Venom: The Last Dance                                    
+http://103.145.232.246/Data/movies/Hollywood/2024/Venom%20The%20Last%20Dance%20%282024%29/Venom%20The%20Last%20Dance.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg" tvg-country="" tvg-url="" group-title="",Red One                                     
 http://103.145.232.246/Data/movies/Hollywood/2024/Red%20One%20%282024%29/Red%20One.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/cNtAslrDhk1i3IOZ16vF7df6lMy.jpg" tvg-country="" tvg-url="" group-title="",Absolution                                     
@@ -17,8 +19,6 @@ http://103.145.232.246/Data/movies/Hollywood/2024/In%20A%20Violent%20Nature%20%2
 http://103.145.232.246/Data/movies/Hollywood/2024/Joker%20Folie%20%C3%A0%20Deux%20%282024%29/Joker%20Folie%20%C3%A0%20Deux.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/7GC0TEOQ1ljAhtvcwdthAbb5D3h.jpg" tvg-country="" tvg-url="" group-title="",Kali: Avenging Angel                                    
 http://103.145.232.246/Data/movies/Hollywood/2024/Kali%20%282024%29/Kali.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/k42Owka8v91trK1qMYwCQCNwJKr.jpg" tvg-country="" tvg-url="" group-title="",Venom: The Last Dance                                    
-http://103.145.232.246/Data/movies/Hollywood/2024/Venom%20The%20Last%20Dance%20%282024%29/Venom%20The%20Last%20Dance.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg" tvg-country="" tvg-url="" group-title="",Alien: Romulus                                   
 http://103.145.232.246/Data/movies/Hollywood/2024/Alien%20Romulus%20%282024%29/Alien.Romulus.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/qELcpKCX0HMszrWyq25GS2DTK3o.jpg" tvg-country="" tvg-url="" group-title="",Alien Country                                  
