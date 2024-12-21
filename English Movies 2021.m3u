@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/wHJg0F5PZ1vY4vu6LQQavMfWQyb.jpg" tvg-country="" tvg-url="" group-title="",Kraven the Hunter                                   
+http://103.145.232.246/Data/movies/Hollywood/2024/Kraven%20the%20Hunter%20%282024%29/Kraven%20the%20Hunter.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg" tvg-country="" tvg-url="" group-title="",Dirty Angels                                    
+http://103.145.232.246/Data/movies/Hollywood/2024/Dirty%20Angels%20%282024%29/Dirty.Angels.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/fxaWzzG39pnrq4Z0qNu7XQtYRsy.jpg" tvg-country="" tvg-url="" group-title="",All the Lost Ones                                   
+http://103.145.232.246/Data/movies/Hollywood/2024/All%20The%20Lost%20Ones%20%282024%29/All.The.Lost.Ones.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/5Yyv5YFQOQ6LpVMUdc4SCXsZijn.jpg" tvg-country="" tvg-url="" group-title="",Haunted Heart                                    
+http://103.145.232.246/Data/movies/Hollywood/2024/Haunted%20Heart%20%282024%29/Haunted.Heart.2024.WEB-DL.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/wpApuf1xky92ug8n5mP5aP7DiDy.jpg" tvg-country="" tvg-url="" group-title="",Mary                                   
+http://103.145.232.246/Data/movies/Hollywood/2024/Mary%20%282024%29/Mary.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/lqoMzCcZYEFK729d6qzt349fB4o.jpg" tvg-country="" tvg-url="" group-title="",The Substance                                   
+http://103.145.232.246/Data/movies/Hollywood/2024/The%20Substance%20%282024%29/The%20Substance%20%282024%29.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/pmz3HMKOXFQbZX0KYA9GNVtv7OZ.jpg" tvg-country="" tvg-url="" group-title="",Last Known Location                                    
+http://103.145.232.246/Data/movies/Hollywood/2024/Last%20Known%20Location%20%282024%29/Last.Known.Location.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/k42Owka8v91trK1qMYwCQCNwJKr.jpg" tvg-country="" tvg-url="" group-title="",Venom: The Last Dance                                    
 http://103.145.232.246/Data/movies/Hollywood/2024/Venom%20The%20Last%20Dance%20%282024%29/Venom%20The%20Last%20Dance.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg" tvg-country="" tvg-url="" group-title="",Red One                                     
