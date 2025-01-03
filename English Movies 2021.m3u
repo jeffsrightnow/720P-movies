@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/elKf8Y5yi6Rl6teKsrQg0GAwaQD.jpg" tvg-country="" tvg-url="" group-title="",Werewolves                                  
+http://103.145.232.246/Data/movies/Hollywood/2024/Werewolves%20%282024%29/Werewolves.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/7tvAnzZj9e9AjdoHaN9jshm2Cjw.jpg" tvg-country="" tvg-url="" group-title="",The Six Triple Eight                                   
+http://103.145.232.246/Data/movies/Hollywood/2024/The%20Six%20Triple%20Eight%20%282024%29/The.Six.Triple.Eight.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/1bJ2652AUnuK1WhlR0GLbJKVqMF.jpg" tvg-country="" tvg-url="" group-title="",The Order                                   
+http://103.145.232.246/Data/movies/Hollywood/2024/The%20Order%20%282024%29/The.Order.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/zV5djt7n4IZDR0ixq7hsafNTj91.jpg" tvg-country="" tvg-url="" group-title="",Spithood                                   
+http://103.145.232.246/Data/movies/Hollywood/2024/Spithood%20%282024%29/Spithood.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/wHJg0F5PZ1vY4vu6LQQavMfWQyb.jpg" tvg-country="" tvg-url="" group-title="",Kraven the Hunter                                   
 http://103.145.232.246/Data/movies/Hollywood/2024/Kraven%20the%20Hunter%20%282024%29/Kraven%20the%20Hunter.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg" tvg-country="" tvg-url="" group-title="",Dirty Angels                                    
