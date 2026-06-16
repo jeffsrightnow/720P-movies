@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/9MFEG9TPOiYFUrtjcdkpwjglo4v.jpg" tvg-country="" tvg-url="" group-title="", Master of the Universe                        
+https://ftp.ctgfun.com/English/Masters%20of%20the%20Universe%20%282026%29%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Masters%20of%20the%20Universe%20%282026%29%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mkv
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg" tvg-country="" tvg-url="" group-title="", Michael                        
+https://ftp.ctgfun.com/English/Michael%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Michael%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg" tvg-country="" tvg-url="" group-title="", Seven Snipers                        
+https://ftp.ctgfun.com/English/Seven%20Snipers%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Seven%20Snipers%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg" tvg-country="" tvg-url="" group-title="", Fuze                        
+https://ftp.ctgfun.com/English/Fuze%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Fuze%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg" tvg-country="" tvg-url="" group-title="", The Mandalorian and Grogu                         
+https://ftp.ctgfun.com/English/The%20Mandalorian%20and%20Grogu%20%282026%29%201080p%20HDTS%20x264%20%5BDDN%5D/The%20Mandalorian%20and%20Grogu%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" tvg-country="" tvg-url="" group-title="", Tom Clancy's Jack Ryan: Ghost War                         
+https://ftp.ctgfun.com/English/Jack%20Ryan%20Ghost%20War%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D/Jack%20Ryan%20Ghost%20War%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/v119SO5Ev6E4FgRg8o4mLTCzcAC.jpg" tvg-country="" tvg-url="" group-title="", Lee Cronin's The Mummy                         
+https://ftp.ctgfun.com/English/The%20Mummy%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D/The%20Mummy%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/6PeV99XjTB4Odi7AAguUP26ogR9.jpg" tvg-country="" tvg-url="" group-title="", Mortal Kombat II                         
+https://ftp.ctgfun.com/English/Mortal%20Kombat%20II%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D/Mortal%20Kombat%20II%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg" tvg-country="" tvg-url="" group-title="", Apex                        
+https://ftp.ctgfun.com/English/Apex.2026.1080p.WEBRip.x264%20%5BDDN%5D/Apex.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg" tvg-country="" tvg-url="" group-title="", The Whistler                         
+https://ftp.ctgfun.com/English/The.Whistler.2026.1080p.WEBRip.x264%20%5BDDN%5D/The.Whistler.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/mTcXNQHnabavseapSfcAKhTnC3V.jpg" tvg-country="" tvg-url="" group-title="", Ballistic                         
+https://ftp.ctgfun.com/English/Ballistic.2025.1080p.WEBRip.x264%20%5BDDN%5D/Ballistic.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg" tvg-country="" tvg-url="" group-title="", Protector                         
+https://ftp.ctgfun.com/English/Protector.2025.1080p.WEBRip.x264%20%5BDDN%5D/Protector.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg" tvg-country="" tvg-url="" group-title="", Ready or Not: Here I Come                         
+https://ftp.ctgfun.com/English/Ready%20Or%20Not%20Here%20I%20Come%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ready%20Or%20Not%20Here%20I%20Come%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg" tvg-country="" tvg-url="" group-title="", Mike & Nick & Nick & Alice                          
+https://ftp.ctgfun.com/English/Mike.Nick.Nick.Alice.2026.1080p.WEBRip.x264%20%5BDDN%5D/Mike.Nick.Nick.Alice.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/adk8weka3O5648g3de4z3y4aE7G.jpg" tvg-country="" tvg-url="" group-title="", Thrash                          
 http://ftp.ctgfun.com/English/Thrash.2026.1080p.WEBRip.x264%20%5BDDN%5D/Thrash.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg" tvg-country="" tvg-url="" group-title="", Crime 101                          
