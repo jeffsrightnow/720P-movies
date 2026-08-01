@@ -15,6 +15,10 @@ http://5.9.158.222/PLATINUM/VOD2023/John%20Wick%20Chapter%204%20(2023).mp4
 http://5.9.158.222/PLATINUM/VOD2023/Transformers%20Rise%20of%20the%20Beasts%20(2023).mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/kjMbDciooTbJPofVXgAoFjfX8Of.jpg" tvg-country="" tvg-url="" group-title="",Greyhound
 http://103.203.93.3/Hollywood%20(English)/2020/Greyhound/Greyhound%20(2020)%20English%20720p.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg" tvg-country="" tvg-url="" group-title="",Alien: Covenant
+http://103.203.93.3/Hollywood%20(English)/2017/Alien%20Covenant/Alien.Covenant.2017.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/sCmwhWMMNStxkKi078eEx1CpyB8.jpg" tvg-country="" tvg-url="" group-title="",The Wolverine
+http://103.203.93.3/Hollywood%20(English)/2013/The%20Wolverine/The.Wolverine.2013.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/pxbrFOTV2j8MmZQlfin3dwz5cXV.jpg" tvg-country="" tvg-url="" group-title="",Avatar
 http://103.203.93.3/Hollywood%20(English)/2013/Avatar/Avatar.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/bYLM3GpNUZnoFElPXp1zlhDPdtv.jpg" tvg-country="" tvg-url="" group-title="",Oblivion
@@ -35,8 +39,6 @@ http://103.203.93.3/Hollywood%20(English)/2010/Clash%20of%20the%20Titans/Clash%2
 http://103.203.93.3/Hollywood%20(English)/2011/Thor/Thor.2011.720p.Bluray.x264--scOrp.mkv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg" tvg-country="" tvg-url="" group-title="",Rise of the Planet of the Apes
 http://103.203.93.3/Hollywood%20(English)/2011/Thor/Thor.2011.720p.Bluray.x264--scOrp.mkv
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/fhbiz5BsGUVEZmzPP72SoPlbMz0.jpg" tvg-country="" tvg-url="" group-title="",I Am Legend 
-http://103.203.93.3/Hollywood%20(English)/2010/I%20Am%20Legend/I%20Am%20Legend%20(2007).mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" tvg-country="" tvg-url="" group-title="",Titanic
 http://103.203.93.3/Hollywood%20(English)/2010/Titanic/Titanic%20(1997).mkv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/xKlRPO4lOBrLGdvCTnVttexYnpl.jpg" tvg-country="" tvg-url="" group-title="",The Day After Tomorrow
