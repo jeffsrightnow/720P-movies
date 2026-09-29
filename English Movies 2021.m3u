@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/iRgbLQEXBwqD7rSHe8b1yUTy9XT.jpg" tvg-country="" tvg-url="" group-title="", Heart of the Beast                   
 https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Heart-of-the-Beast-2026/Heart-of-the-Beast-2026-1080p-English-HDTC-Print.mkv
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" tvg-country="" tvg-url="" group-title="", Runner                   
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Runner-2026/Runner-2026-1080p-English-WEBDL.mkv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/nYYZZ4eej8xBEH2UcY7jK7E4dDq.jpg" tvg-country="" tvg-url="" group-title="", Legend of the White Dragon                   
 https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Legend-Of-The-White-Dragon-2026/Legend-Of-The-White-Dragon-2026-1080p-English-WEBRip_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/6TsWqeuUUZdvtFI9sACmU3xbrar.jpg" tvg-country="" tvg-url="" group-title="", The Fix                    
@@ -12,7 +14,7 @@ https://ctghall.com/Data/Movies/English/2026/Hot%20Spot%20%282026%29/Hot.Spot.20
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/y6UVUOM6ZA4AfjsXprepUj6lOSG.jpg" tvg-country="" tvg-url="" group-title="", Fall 2: Deadpoint                    
 https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Fall-2-2026/Fall-2-2026-1080p-English-CAMRip_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg" tvg-country="" tvg-url="" group-title="", The Runner                    
-https://ctghall.com/Data/Movies/English/2026/The%20Runner%20%282026%29/The.Runner.2026.1080p.BluRay.x264.AAC5.1-%5BYTS.GG%20-%20YTS.BZ%5D.mp4
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/The-Runner-2026/The-Runner-2026-1080p-English-WEBRip_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg" tvg-country="" tvg-url="" group-title="", Insidious: Out of the Further                    
 https://ctghall.com/Data/Movies/English/2026/Insidious%20Out%20Of%20The%20Further%20%282026%29/Insidious%20Out%20Of%20The%20Further%20%282026%29%20TC%20English%201080p%20AVC%20AAC%202.0%20CineVood.mkv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg" tvg-country="" tvg-url="" group-title="", Resident Evil                    
