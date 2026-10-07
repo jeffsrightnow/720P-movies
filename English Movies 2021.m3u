@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg" tvg-country="" tvg-url="" group-title="", Spider-Man: Brand New Day                   
 https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Spider-Man-Brand-New-Day-2026/Spider-Man-Brand-New-Day-2026-1080p-English-WEBDL_reencoded.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/c9n6axeKPlkYUljrrirCsJjc2XD.jpg" tvg-country="" tvg-url="" group-title="", The Uprising                   
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/The-Uprising-2026/The-Uprising-2026-1080p-English-WEBDL_reencoded.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg" tvg-country="" tvg-url="" group-title="", Doing Life                 
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Doing-Life-2026/Doing-Life-2026-1080p-English-WEBRip_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/iRgbLQEXBwqD7rSHe8b1yUTy9XT.jpg" tvg-country="" tvg-url="" group-title="", Heart of the Beast                   
 https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Heart-of-the-Beast-2026/Heart-of-the-Beast-2026-1080p-English-HDTC-Print_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" tvg-country="" tvg-url="" group-title="", Runner                   
@@ -19,60 +23,38 @@ https://server2.ftpbd.net/FTP-2/English%20Movies/2026/The-Runner-2026/The-Runner
 https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Insidious-Out-Of-The-Further-2026/Insidious-Out-Of-The-Further-2026-1080p-English-WEBRip_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg" tvg-country="" tvg-url="" group-title="", Resident Evil                    
 https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Resident-Evil-2026/Resident-Evil-2026-1080p-English-WEBDL_reencoded.mp4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/qvcq0thb9oPwv6JG2nsTgr9LlLb.jpg" tvg-country="" tvg-url="" group-title="", Seven Snipers                    
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Seven-Snipers-2026/Seven-Snipers-2026-1080p-English-BluRay_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/9EkWKnNvzpBwsLqi55gW1M9b8Qr.jpg" tvg-country="" tvg-url="" group-title="", The Death of Robin Hood                   
 https://server2.ftpbd.net/FTP-2/English%20Movies/2026/The-Death-Of-Robin-Hood-2026/The-Death-Of-Robin-Hood-2026-1080p-English-WEBRip_reencoded.mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oLld47ZT1I3iecM3OWhIphohQUJ.jpg" tvg-country="" tvg-url="" group-title="", Rage of Stars                   
-https://ctghall.com/Data/Movies/English/2026/Rage%20Of%20Stars%20%282026%29/Rage.Of.Stars.2026.NORDIC.1080p.WEBRip.x264.AAC5.1-%5BYTS.GG%20-%20YTS.BZ%5D.mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/fMbhJKv5bvVnh9HUwm1mTKmZdeZ.jpg" tvg-country="" tvg-url="" group-title="", Dark Hollow                  
-https://ctghall.com/Data/Movies/English/2026/Dark%20Hollow%20%282026%29/Dark.Hollow.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.GG%20-%20YTS.BZ%5D.mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" tvg-country="" tvg-url="" group-title="", The Mongoose                   
-https://ctghall.com/Data/Movies/English/2026/The%20Mongoose%20(2026)/The.Mongoose.2026.1080p.WEBRip.x264.AAC-[YTS.GG%20-%20YTS.BZ].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/pu2VxGlpGwffOx292w18b1tv96j.jpg" tvg-country="" tvg-url="" group-title="", Mutiny                   
-https://ctghall.com/Data/Movies/English/2026/Mutiny%20(2026)/Mutiny.2026.1080p.WEBRip.x264.AAC5.1-[YTS.GG%20-%20YTS.BZ].mp4
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Mutiny-2026/Mutiny-2026-1080p-English-WEBRip_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg" tvg-country="" tvg-url="" group-title="", The Whisper Man                   
-https://ctghall.com/Data/Movies/English/2026/The%20Whisper%20Man%20(2026)/The.Whisper.Man.2026.1080p.WEBRip.x264.AAC5.1-[YTS.GG%20-%20YTS.BZ].mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/alpf5v4UqSFawPmG9RX03Or4BDk.jpg" tvg-country="" tvg-url="" group-title="", Facing El Chapo                   
-https://ctghall.com/Data/Movies/English/2026/La%20Captura%20(2026)/La.Captura.2026.1080p.WEBRip.x264.AAC5.1-[YTS.GG%20-%20YTS.BZ].mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/sfQtVlIHljToOwYjhe21KPGzZWK.jpg" tvg-country="" tvg-url="" group-title="", Toy Story 5                   
-https://ctghall.com/Data/Movies/English/2026/Toy%20Story%205%20(2026)/Toy.Story.5.2026.1080p.WEBRip.x264.AAC5.1-[YTS.GG%20-%20YTS.BZ].mp4
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/The-Whisper-Man-2026/The-Whisper-Man-2026-1080p-English-WEBDL_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/bDkL24ydznDVkD30r4kLmbKCkIL.jpg" tvg-country="" tvg-url="" group-title="", The Odyssey                    
 https://server2.ftpbd.net/FTP-2/English%20Movies/2026/The-Odyssey-2026/The-Odyssey-2026-1080p-English-TELESYNC-Print_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg" tvg-country="" tvg-url="" group-title="", Backrooms                     
-https://ctghall.com/Data/Movies/English/2026/Backrooms%20(2026)/Backrooms.2026.1080p.WEBRip.x264.AAC5.1-[YTS.GG%20-%20YTS.BZ].mp4
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Backrooms-2026/Backrooms-2026-1080p-English-WebRip_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/ztadKzIIR0ERYqpHteaPFtk7inP.jpg" tvg-country="" tvg-url="" group-title="", Evil Dead Burn                     
-https://ctghall.com/Data/Movies/English/2026/Evil%20Dead%20Burn%20%282026%29/Evil.Dead.Burn.2026.HYBRID.1080p.BluRay.x264.AAC5.1-%5BYTS.GG%20-%20YTS.BZ%5D.mp4
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Evil-Dead-Burn-2026/Evil-Dead-Burn-2026-1080p-English-WEBRip_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" tvg-country="" tvg-url="" group-title="", Moana                      
 https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Moana-2026/Moana-2026-1080p-English-WEBDL_reencoded.mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg" tvg-country="" tvg-url="" group-title="", Tuner                      
-https://ctghall.com/Data/Movies/English/2025/Tuner%20(2025)/Tuner.2025.1080p.BluRay.x264.AAC5.1-[YTS.GG%20-%20YTS.BZ].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" tvg-country="" tvg-url="" group-title="", Obsession                       
-https://ctghall.com/Data/Movies/English/2026/Obsession%20(2026)/Obsession.2026.HQ.1080p.HDTC.English-ORG-DD2.0.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg" tvg-country="" tvg-url="" group-title="", Hungry                       
-https://ctghall.com/Data/Movies/English/2026/Hungry%20(2026)/Hungry.2026.1080p.BluRay.x264.AAC5.1-[YTS.GG%20-%20YTS.BZ].mp4
+https://server2.ftpbd.net/FTP-2/English%20Movies/2025/Obsession-2025/Obsession-2025-English-1080p-WEBDL_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/niSvU02l2BONH9ivubV6K1a5QiK.jpg" tvg-country="" tvg-url="" group-title="", Supergirl                        
-https://ctghall.com/Data/Movies/English/2026/Supergirl%20(2026)/Supergirl.2026.1080p.BluRay.x264.AAC5.1-[YTS.GG%20-%20YTS.BZ].mp4
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Supergirl-2026/Supergirl-2026-1080p-English-WEBRip_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/9MFEG9TPOiYFUrtjcdkpwjglo4v.jpg" tvg-country="" tvg-url="" group-title="", Master of the Universe                        
-https://ctghall.com/Data/Movies/English/2026/Masters%20Of%20The%20Universe%20(2026)/Masters.Of.The.Universe.2026.1080p.BluRay.x264.AAC5.1-[YTS.GG%20-%20YTS.BZ].mp4
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Masters-Of-The-Universe-2026/Masters-Of-The-Universe-2026-1080p-English-WEBRip_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg" tvg-country="" tvg-url="" group-title="", Michael                        
-https://ctghall.com/Data/Movies/English/2026/Michael%20(2026)/Michael.2026.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg" tvg-country="" tvg-url="" group-title="", Seven Snipers                        
-https://ctghall.com/Data/Movies/English/2026/Seven%20Snipers%20(2026)/Seven.Snipers.2026.INTERNAL.BLURAY.1080p.BluRay.x264.AAC5.1-[YTS.GG%20-%20YTS.BZ].mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg" tvg-country="" tvg-url="" group-title="", Fuze                        
-https://ctghall.com/Data/Movies/English/2025/Fuze%20(2025)/Fuze.2025.1080p.BluRay.x264.AAC5.1-[YTS.GG%20-%20YTS.BZ].mp4
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Michael-2026/Michael-2026-1080p-English-WEBRip_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg" tvg-country="" tvg-url="" group-title="", The Mandalorian and Grogu                         
-https://ctghall.com/Data/Movies/English/2026/The%20Mandalorian%20And%20Grogu%20(2026)/The.Mandalorian.And.Grogu.2026.1080p.WEBRip.x264.AAC5.1-[YTS.GG%20-%20YTS.BZ].mp4
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Star-Wars-The-Mandalorian-and-Grogu-2026/The-Mandalorian-and-Grogu-2026-1080p-English-IMAX-BluRay_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" tvg-country="" tvg-url="" group-title="", Tom Clancy's Jack Ryan: Ghost War                         
-https://ctghall.com/Data/Movies/English/2026/Jack%20Ryan%20Ghost%20War%20(2026)/Jack.Ryan.Ghost.War.2026.1080p.WEBRip.x264.AAC5.1-[YTS.BZ].mp4
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Tom-Clancys-Jack-Ryan-Ghost-War-2026/Tom-Clancys-Jack-Ryan-Ghost-War-2026-1080p-English-WEBDL_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/v119SO5Ev6E4FgRg8o4mLTCzcAC.jpg" tvg-country="" tvg-url="" group-title="", Lee Cronin's The Mummy                         
-https://ctghall.com/Data/Movies/English/2026/The%20Mummy%20(2026)/The.Mummy.2026.1080p.BluRay.x264.AAC5.1-[YTS.BZ].mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg" tvg-country="" tvg-url="" group-title="", The Whistler                         
-https://ctghall.com/Data/Movies/English/2026/The%20Whistler%20(2026)/The.Whistler.2026.1080p.WEBRip.x264.AAC5.1-[YTS.BZ].mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/mTcXNQHnabavseapSfcAKhTnC3V.jpg" tvg-country="" tvg-url="" group-title="", Ballistic                         
-https://ctghall.com/Data/Movies/English/2025/Ballistic%20(2025)/Ballistic.2025.1080p.WEBRip.x264.AAC5.1-[YTS.BZ].mp4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg" tvg-country="" tvg-url="" group-title="", Mike & Nick & Nick & Alice                          
-https://ctghall.com/Data/Movies/English/2026/Mike%20and%20Nick%20and%20Nick%20and%20Alice%20(2026)/Mike.and.Nick.and.Nick.and.Alice.2026.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-BABYGURL.mkv
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Lee-Cronins-The-Mummy-2026/The-Mummy-2026-1080p-English-WEBRip_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/w1280/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg" tvg-country="" tvg-url="" group-title="", Scream 7                          
-http://ftp.ctgfun.com/English/Scream.7.2026.1080p.WEBRip.x264%20%5BDDN%5D/Scream.7.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/Scream-7-2026/Scream-7-2026-1080p-English-WEB-DL_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/ipTXhWCJgeg5RN0CpmFZYDzOzQi.jpg" tvg-country="" tvg-url="" group-title="", Wardriver                          
 http://ftp.ctgfun.com/English/Wardriver.2026.1080p.WEBRip.x264%20%5BDDN%5D/Wardriver.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/wXmoUdNvLx8Iiplgbuc1svl3b2d.jpg" tvg-country="" tvg-url="" group-title="", Project Hail Mary                          
@@ -90,7 +72,7 @@ http://ftp.ctgfun.com/English/War.Machine.2026.1080p.WEBRip.x264%20%5BDDN%5D/War
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/2OywNIynSmztN8yiL4gCt7NewEc.jpg" tvg-country="" tvg-url="" group-title="", Shelter                          
 http://ftp.ctgfun.com/English/Shelter.2026.1080p.WEBRip.x264%20%5BDDN%5D/Shelter.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/eMSPrtPAocp7D2SthCPQKATxaB1.jpg" tvg-country="" tvg-url="" group-title="", The Bluff                          
-http://ftp.ctgfun.com/English/The.Bluff.2026.1080p.WEBRip.x264%20%5BDDN%5D/The.Bluff.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4
+https://server2.ftpbd.net/FTP-2/English%20Movies/2026/The-Bluff-2026/The-Bluff-2026-1080p-English-WEBDL_reencoded.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.tmdb.org/t/p/original/xkEaVgVSBmm6EkW0Ux0ujS7efjL.jpg" tvg-country="" tvg-url="" group-title="", Primate                          
 http://ftp.ctgfun.com/English/Primate.2025.1080p.WEBRip.x264%20%5BDDN%5D/Primate.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" tvg-country="" tvg-url="" group-title="", 28 Years Later: The Bone Temple                         
